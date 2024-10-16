@@ -25,3 +25,5 @@ Linux
 Windows
 
 ```./get-a-name.exe```
+
+[License](./LICENSE)
