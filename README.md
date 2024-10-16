@@ -3,7 +3,7 @@
 get-a-name is a go module for randomly picking a name from name.txt files containing lists of names.
 
 <div align="center">
-    <img src="https://github.com/zavastopher/get-a-name/resources/demo.gif" alt="gif of get-a-name working">
+    <img src="https://github.com/zavastopher/get-a-name/blob/main/resources/demo.gif" alt="gif of get-a-name working">
 </div>
 
 *let the computer roll and look for the random name for that npc you don't care about*
