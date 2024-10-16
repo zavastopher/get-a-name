@@ -48,17 +48,8 @@ func main() {
 			check(err)
 			_, err = f.Write(srcTxt)
 			check(err)
-			// os.Stdout.Write(srcTxt)
-
 		}
 
 		return nil
 	})
-
-	// random_file := nameFiles[rand.Intn(len(nameFiles))]
-
-	// names = os.ReadFile(random_file(nameDir + "/" + random_file))
-	// i = rand.Int()
-	// len = 0
-	// while()
 }
