@@ -3,9 +3,10 @@ package main
 import (
 	"bufio"
 	"fmt"
+
 	//"io"
-	"os"
 	"log"
+	"os"
 )
 
 func check(e error) {
@@ -14,11 +15,11 @@ func check(e error) {
 	}
 }
 
-func buildFileName(name string) string{
+func buildFileName(name string) string {
 	newname := "../name-files/"
 	for _, ch := range name {
 		if ch != ',' {
-			if ch == ' '{
+			if ch == ' ' {
 				newname += string("-")
 			} else {
 				newname += string(ch)
@@ -41,7 +42,7 @@ func main() {
 		err := os.WriteFile(buildFileName(str), []byte(""), 0644)
 		check(err)
 	}
-	
+
 	if err := scanner.Err(); err != nil {
 		log.Fatal(err)
 	}
