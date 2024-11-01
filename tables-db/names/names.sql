@@ -3,2801 +3,2806 @@ CREATE TABLE names (
 	culture 	varchar(10),
 	name		varchar(10)
 );
-INSERT INTO names (category, culture, name) VALUES (Female, Arabic, Aaliyah);
-Female, Arabic, Aida
-Female, Arabic, Akilah
-Female, Arabic, Alia
-Female, Arabic, Amina
-Female, Arabic, Atefeh
-Female, Arabic, Chaima
-Female, Arabic, Dalia
-Female, Arabic, Ehsan
-Female, Arabic, Elham
-Female, Arabic, Farah
-Female, Arabic, Fatemah	
-Female, Arabic, Gamila
-Female, Arabic, Iesha
-Female, Arabic, Inbar
-Female, Arabic, Kamaria
-Female, Arabic, Khadija
-Female, Arabic, Layla
-Female, Arabic, Lupe
-Female, Arabic, Nabila
-Female, Arabic, Nadine
-Female, Arabic, Naima
-Female, Arabic, Najila
-Female, Arabic, Najwa
-Female, Arabic, Nakia
-Female, Arabic, Nashwa
-Female, Arabic, Nawra
-Female, Arabic, Nuha
-Female, Arabic, Nura
-Female, Arabic, Oma
-Female, Arabic, Qadira
-Female, Arabic, Qamar
-Female, Arabic, Qistina
-Female, Arabic, Rahima
-Female, Arabic, Rihanna
-Female, Arabic, Saadia
-Female, Arabic, Sabah
-Female, Arabic, Sada
-Female, Arabic, Saffron
-Female, Arabic, Sahar
-Female, Arabic, Salma
-Female, Arabic, Shatha
-Female, Arabic, Tahira
-Female, Arabic, Takisha
-Female, Arabic, Thana
-Female, Arabic, Yadira
-Female, Arabic, Zahra
-Female, Arabic, Zaida
-Female, Arabic, Zaina
-Female, Arabic, Zeinab
-Female, Celtic, Aife
-Female, Celtic, Aina
-Female, Celtic, Alane
-Female, Celtic, Ardena
-Female, Celtic, Arienh
-Female, Celtic, Beatha
-Female, Celtic, Birgit
-Female, Celtic, Briann
-Female, Celtic, Caomh
-Female, Celtic, Cara
-Female, Celtic, Cinnia
-Female, Celtic, Cordelia
-Female, Celtic, Deheune
-Female, Celtic, Divone
-Female, Celtic, Donia
-Female, Celtic, Doreena
-Female, Celtic, Elsha
-Female, Celtic, Enid
-Female, Celtic, Ethne
-Female, Celtic, Evelina
-Female, Celtic, Fianna
-Female, Celtic, Genevieve
-Female, Celtic, Gilda
-Female, Celtic, Gitta
-Female, Celtic, Grania
-Female, Celtic, Gwyndolin
-Female, Celtic, Idelisa
-Female, Celtic, Isolde
-Female, Celtic, Keelin
-Female, Celtic, Kennocha
-Female, Celtic, Lavena
-Female, Celtic, Lesley
-Female, Celtic, Linnette
-Female, Celtic, Lyonesse
-Female, Celtic, Mabina
-Female, Celtic, Marvina
-Female, Celtic, Mavis
-Female, Celtic, Mirna
-Female, Celtic, Morgan
-Female, Celtic, Muriel
-Female, Celtic, Nareena
-Female, Celtic, Oriana
-Female, Celtic, Regan
-Female, Celtic, Ronat
-Female, Celtic, Rowena
-Female, Celtic, Selma
-Female, Celtic, Ula
-Female, Celtic, Venetia
-Female, Celtic, Wynne
-Female, Celtic, Yseult
-Female, Chinese, Ai
-Female, Chinese, Anming
-Female, Chinese, Baozhai
-Female, Chinese, Bei
-Female, Chinese, Caixia
-Female, Chinese, Changchang
-Female, Chinese, Chen
-Female, Chinese, Chou
-Female, Chinese, Chunhua
-Female, Chinese, Daianna
-Female, Chinese, Daiyu
-Female, Chinese, Die
-Female, Chinese, Ehuang
-Female, Chinese, Fenfang
-Female, Chinese, Ge
-Female, Chinese, Hong
-Female, Chinese, Huan
-Female, Chinese, Huifang
-Female, Chinese, Jia
-Female, Chinese, Jiao
-Female, Chinese, Jiaying
-Female, Chinese, Jingfei
-Female, Chinese, Jinjing
-Female, Chinese, Lan
-Female, Chinese, Li
-Female, Chinese, Lihua
-Female, Chinese, Lin
-Female, Chinese, Ling
-Female, Chinese, Liu
-Female, Chinese, Meili
-Female, Chinese, Ning
-Female, Chinese, Qi
-Female, Chinese, Qiao
-Female, Chinese, Rong
-Female, Chinese, Shu
-Female, Chinese, Shuang
-Female, Chinese, Song
-Female, Chinese, Ting
-Female, Chinese, Wen
-Female, Chinese, Xia
-Female, Chinese, Xiaodan
-Female, Chinese, Xiaoli
-Female, Chinese, Xingjuan
-Female, Chinese, Xue
-Female, Chinese, Ya
-Female, Chinese, Yan
-Female, Chinese, Ying
-Female, Chinese, Yuan
-Female, Chinese, Yue
-Female, Chinese, Yun
-Female, Dragonkin, Akra
-Female, Dragonkin, Aasathra
-Female, Dragonkin, Antrara
-Female, Dragonkin, Arava
-Female, Dragonkin, Biri
-Female, Dragonkin, Blendaeth
-Female, Dragonkin, Burana
-Female, Dragonkin, Chassath
-Female, Dragonkin, Daar
-Female, Dragonkin, Dentratha
-Female, Dragonkin, Doudra
-Female, Dragonkin, Driindar
-Female, Dragonkin, Eggren
-Female, Dragonkin, Farideh
-Female, Dragonkin, Findex
-Female, Dragonkin, Furrele
-Female, Dragonkin, Gesrethe
-Female, Dragonkin, Gikass
-Female, Dragonkin, Harann
-Female, Dragonkin, Havilar
-Female, Dragonkin, Hethress
-Female, Dragonkin, Hillanot
-Female, Dragonkin, Jaxi
-Female, Dragonkin, Jezean
-Female, Dragonkin, Jheri
-Female, Dragonkin, Kadana
-Female, Dragonkin, Kava
-Female, Dragonkin, Korinn
-Female, Dragonkin, Megren
-Female, Dragonkin, Mijira
-Female, Dragonkin, Mishann
-Female, Dragonkin, Nala
-Female, Dragonkin, Nuthra
-Female, Dragonkin, Perra
-Female, Dragonkin, Pogranix
-Female, Dragonkin, Pyxrin
-Female, Dragonkin, Quespa
-Female, Dragonkin, Raiann
-Female, Dragonkin, Rezena
-Female, Dragonkin, Ruloth
-Female, Dragonkin, Saphara
-Female, Dragonkin, Savaran
-Female, Dragonkin, Sora
-Female, Dragonkin, Surina
-Female, Dragonkin, Synthrin
-Female, Dragonkin, Tatyan
-Female, Dragonkin, Thava
-Female, Dragonkin, Uadjit
-Female, Dragonkin, Vezera
-Female, Dragonkin, Zykroff
-Female, Dwarf, Anbera
-Female, Dwarf, Artin
-Female, Dwarf, Audhild
-Female, Dwarf, Balifra
-Female, Dwarf, Barbena
-Female, Dwarf, Bardryn
-Female, Dwarf, Bolhild
-Female, Dwarf, Dagnal
-Female, Dwarf, Dariff
-Female, Dwarf, Delre
-Female, Dwarf, Diesa
-Female, Dwarf, Eldeth
-Female, Dwarf, Eridred
-Female, Dwarf, Falkrunn
-Female, Dwarf, Fallthra
-Female, Dwarf, Finellen
-Female, Dwarf, Gillydd
-Female, Dwarf, Gunnloda
-Female, Dwarf, Gurdis
-Female, Dwarf, Helgret
-Female, Dwarf, Helja
-Female, Dwarf, Hlin
-Female, Dwarf, Ilde
-Female, Dwarf, Jarana
-Female, Dwarf, Kathra
-Female, Dwarf, Kilia
-Female, Dwarf, Kristryd
-Female, Dwarf, Liftrasa
-Female, Dwarf, Marastyr
-Female, Dwarf, Mardred
-Female, Dwarf, Morana
-Female, Dwarf, Nalaed
-Female, Dwarf, Nora
-Female, Dwarf, Nurkara
-Female, Dwarf, Oriff
-Female, Dwarf, Ovina
-Female, Dwarf, Riswynn
-Female, Dwarf, Sannl
-Female, Dwarf, Therlin
-Female, Dwarf, Thodris
-Female, Dwarf, Torbera
-Female, Dwarf, Tordrid
-Female, Dwarf, Torgga
-Female, Dwarf, Urshar
-Female, Dwarf, Valida
-Female, Dwarf, Vistra
-Female, Dwarf, Vonana
-Female, Dwarf, Werydd
-Female, Dwarf, Whurdred
-Female, Dwarf, Yurgunn
-Female, Egyptian, A’at
-Female, Egyptian, Ahset
-Female, Egyptian, Amunet
-Female, Egyptian, Aneksi
-Female, Egyptian, Atet
-Female, Egyptian, Baketamon
-Female, Egyptian, Betrest
-Female, Egyptian, Bunefer
-Female, Egyptian, Dedyet
-Female, Egyptian, Hatshepsut
-Female, Egyptian, Hentie
-Female, Egyptian, Herit
-Female, Egyptian, Hetepheres
-Female, Egyptian, Intakaes
-Female, Egyptian, Ipwet
-Female, Egyptian, Itet
-Female, Egyptian, Joba
-Female, Egyptian, Kasmut
-Female, Egyptian, Kemanub
-Female, Egyptian, Khemut
-Female, Egyptian, Kiya
-Female, Egyptian, Maia
-Female, Egyptian, Menhet
-Female, Egyptian, Merit
-Female, Egyptian, Meritamen
-Female, Egyptian, Merneith
-Female, Egyptian, Merseger
-Female, Egyptian, Muyet
-Female, Egyptian, Nebet
-Female, Egyptian, Nebetah
-Female, Egyptian, Nedjemmut
-Female, Egyptian, Nefertiti
-Female, Egyptian, Neferu
-Female, Egyptian, Neithotep
-Female, Egyptian, Nit
-Female, Egyptian, Nofret
-Female, Egyptian, Nubemiunu
-Female, Egyptian, Peseshet
-Female, Egyptian, Pypuy
-Female, Egyptian, Qalhata
-Female, Egyptian, Rai
-Female, Egyptian, Redji
-Female, Egyptian, Sadeh
-Female, Egyptian, Sadek
-Female, Egyptian, Sitamun
-Female, Egyptian, Sitre
-Female, Egyptian, Takhat
-Female, Egyptian, Tarset
-Female, Egyptian, Taweret
-Female, Egyptian, Werenro
-Female, Elf, Adrie
-Female, Elf, Ahinar
-Female, Elf, Althaea
-Female, Elf, Anastrianna
-Female, Elf, Andraste
-Female, Elf, Antinua
-Female, Elf, Arara
-Female, Elf, Baelitae
-Female, Elf, Bethrynna
-Female, Elf, Birel
-Female, Elf, Caelynn
-Female, Elf, Chaedi
-Female, Elf, Claira
-Female, Elf, Dara
-Female, Elf, Drusilia
-Female, Elf, Elama
-Female, Elf, Enna
-Female, Elf, Faral
-Female, Elf, Felosial
-Female, Elf, Hatae
-Female, Elf, lelenia
-Female, Elf, Ilanis
-Female, Elf, Irann
-Female, Elf, Jarsali
-Female, Elf, Jelenneth
-Female, Elf, Keyleth
-Female, Elf, Leshanna
-Female, Elf, Lia
-Female, Elf, Maiathah
-Female, Elf, Malquis
-Female, Elf, Meriele
-Female, Elf, Mialee
-Female, Elf, Myathethil
-Female, Elf, Naivara
-Female, Elf, Quelenna
-Female, Elf, Quillathe
-Female, Elf, Ridaro
-Female, Elf, Sariel
-Female, Elf, Shanairla
-Female, Elf, Shava
-Female, Elf, Silaqui
-Female, Elf, Sumnes
-Female, Elf, Theirastra
-Female, Elf, Thiala
-Female, Elf, Tiaathque
-Female, Elf, Traulam
-Female, Elf, Vadania
-Female, Elf, Valanthe
-Female, Elf, Valna
-Female, Elf, Xanaphia
-Female, English, Adelaide
-Female, English, Agatha
-Female, English, Agnes
-Female, English, Alice
-Female, English, Aline
-Female, English, Anne
-Female, English, Avelina
-Female, English, Avice
-Female, English, Beatrice
-Female, English, Cecily
-Female, English, Egelina
-Female, English, Eleanor
-Female, English, Elizabeth
-Female, English, Ella
-Female, English, Eloise
-Female, English, Elysande
-Female, English, Emeny
-Female, English, Emma
-Female, English, Emmeline
-Female, English, Ermina
-Female, English, Eva
-Female, English, Galiena
-Female, English, Geva
-Female, English, Giselle
-Female, English, Griselda
-Female, English, Hadwisa
-Female, English, Helen
-Female, English, Herleva
-Female, English, Hugolina
-Female, English, Ida
-Female, English, Isabella
-Female, English, Jacoba
-Female, English, Jane
-Female, English, Joan
-Female, English, Juliana
-Female, English, Katherine
-Female, English, Margery
-Female, English, Mary
-Female, English, Matilda
-Female, English, Maynild
-Female, English, Millicent
-Female, English, Oriel
-Female, English, Rohesia
-Female, English, Rosalind
-Female, English, Rosamund
-Female, English, Sarah
-Female, English, Susannah
-Female, English, Sybil
-Female, English, Williamina
-Female, English, Yvonne
-Female, French, Aalis
-Female, French, Agatha
-Female, French, Agnez
-Female, French, Alberea
-Female, French, Alips
-Female, French, Amée
-Female, French, Amelot
-Female, French, Anne
-Female, French, Avelina
-Female, French, Blancha
-Female, French, Cateline
-Female, French, Cecilia
-Female, French, Claricia
-Female, French, Collette
-Female, French, Denisete
-Female, French, Dorian
-Female, French, Edelina
-Female, French, Emelina
-Female, French, Emmelot
-Female, French, Ermentrudis
-Female, French, Gibelina
-Female, French, Gila
-Female, French, Gillette
-Female, French, Guiburgis
-Female, French, Guillemette
-Female, French, Guoite
-Female, French, Hecelina
-Female, French, Heloysis
-Female, French, Helyoudis
-Female, French, Hodeardis
-Female, French, Isabellis
-Female, French, Jaquette
-Female, French, Jehan
-Female, French, Johanna
-Female, French, Juliote
-Female, French, Katerine
-Female, French, Luciana
-Female, French, Margot
-Female, French, Marguerite
-Female, French, Maria
-Female, French, Marie
-Female, French, Melisende
-Female, French, Odelina
-Female, French, Perrette
-Female, French, Petronilla
-Female, French, Sedilia
-Female, French, Stephana
-Female, French, Sybilla
-Female, French, Ysabeau
-Female, French, Ysabel
-Female, German, Adelhayt
-Female, German, Affra
-Female, German, Agatha
-Female, German, Allet
-Female, German, Angnes
-Female, German, Anna
-Female, German, Apell
-Female, German, Applonia
-Female, German, Barbara
-Female, German, Brida
-Female, German, Brigita
-Female, German, Cecilia
-Female, German, Clara
-Female, German, Cristina
-Female, German, Dorothea
-Female, German, Duretta
-Female, German, Ella
-Female, German, Els
-Female, German, Elsbeth
-Female, German, Engel
-Female, German, Enlein
-Female, German, Enndlin
-Female, German, Eva
-Female, German, Fela
-Female, German, Fronicka
-Female, German, Genefe
-Female, German, Geras
-Female, German, Gerhauss
-Female, German, Gertrudt
-Female, German, Guttel
-Female, German, Helena
-Female, German, Irmel
-Female, German, Jonata
-Female, German, Katerina
-Female, German, Kuen
-Female, German, Kungund
-Female, German, Lucia
-Female, German, Madalena
-Female, German, Magdalen
-Female, German, Margret
-Female, German, Marlein
-Female, German, Martha
-Female, German, Otilia
-Female, German, Ottilg
-Female, German, Peternella
-Female, German, Reusin
-Female, German, Sibilla
-Female, German, Ursel
-Female, German, Vrsula
-Female, German, Walpurg
-Female, Gnome, Abalaba
-Female, Gnome, Bimpnottin
-Female, Gnome, Breena
-Female, Gnome, Buvvie
-Female, Gnome, Callybon
-Female, Gnome, Caramip
-Female, Gnome, Carlin
-Female, Gnome, Cumpen
-Female, Gnome, Dalaba
-Female, Gnome, Donella
-Female, Gnome, Duvamil
-Female, Gnome, Ella
-Female, Gnome, Ellyjoybell
-Female, Gnome, Ellywick
-Female, Gnome, Enidda
-Female, Gnome, Lilli
-Female, Gnome, Loopmottin
-Female, Gnome, Lorilla
-Female, Gnome, Luthra
-Female, Gnome, Mardnab
-Female, Gnome, Meena
-Female, Gnome, Menny
-Female, Gnome, Mumpena
-Female, Gnome, Nissa
-Female, Gnome, Numba
-Female, Gnome, Nyx
-Female, Gnome, Oda
-Female, Gnome, Oppah
-Female, Gnome, Orla
-Female, Gnome, Panana
-Female, Gnome, Pyntle
-Female, Gnome, Quilla
-Female, Gnome, Ranala
-Female, Gnome, Reddlepop
-Female, Gnome, Roywyn
-Female, Gnome, Salanop
-Female, Gnome, Shamil
-Female, Gnome, Siffress
-Female, Gnome, Symma
-Female, Gnome, Tana
-Female, Gnome, Tenena
-Female, Gnome, Tervaround
-Female, Gnome, Tippletoe
-Female, Gnome, Ulla
-Female, Gnome, Unvera
-Female, Gnome, Veloptima
-Female, Gnome, Virra
-Female, Gnome, Waywocket
-Female, Gnome, Yebe
-Female, Gnome, Zanna
-Female, Greek, Acantha
-Female, Greek, Aella
-Female, Greek, Alektos
-Female, Greek, Alkippe
-Female, Greek, Andromeda
-Female, Greek, Antigone
-Female, Greek, Ariadne
-Female, Greek, Astraea
-Female, Greek, Chloros
-Female, Greek, Chryseos
-Female, Greek, Daphne
-Female, Greek, Despoina
-Female, Greek, Dione
-Female, Greek, Eileithyia
-Female, Greek, Elektra
-Female, Greek, Euadne
-Female, Greek, Eudora
-Female, Greek, Eunomia
-Female, Greek, Hekabe
-Female, Greek, Helene
-Female, Greek, Hermoione
-Female, Greek, Hippolyte
-Female, Greek, lanthe
-Female, Greek, lokaste
-Female, Greek, lole
-Female, Greek, Iphigenia
-Female, Greek, Ismene
-Female, Greek, Kalliope
-Female, Greek, Kallisto
-Female, Greek, Kalypso
-Female, Greek, Karme
-Female, Greek, Kassandra
-Female, Greek, Kassiopeia
-Female, Greek, Kirke
-Female, Greek, Kleio
-Female, Greek, Klotho
-Female, Greek, Klytië
-Female, Greek, Kynthia
-Female, Greek, Leto
-Female, Greek, Megaera
-Female, Greek, Melaina
-Female, Greek, Melpomene
-Female, Greek, Nausikaa
-Female, Greek, Nemesis
-Female, Greek, Niobe
-Female, Greek, Ourania
-Female, Greek, Phaenna
-Female, Greek, Polymnia
-Female, Greek, Semele
-Female, Greek, Theia
-Female, Half-Orc, Arha
-Female, Half-Orc, Baggi
-Female, Half-Orc, Bendoo
-Female, Half-Orc, Bilga
-Female, Half-Orc, Brakka
-Female, Half-Orc, Creega
-Female, Half-Orc, Drenna
-Female, Half-Orc, Ekk
-Female, Half-Orc, Emen
-Female, Half-Orc, Engong
-Female, Half-Orc, Fistula
-Female, Half-Orc, Gaaki
-Female, Half-Orc, Gorga
-Female, Half-Orc, Grai
-Female, Half-Orc, Greeba
-Female, Half-Orc, Grigi
-Female, Half-Orc, Gynk
-Female, Half-Orc, Hrathy
-Female, Half-Orc, Huru
-Female, Half-Orc, Ilga
-Female, Half-Orc, Kabbarg
-Female, Half-Orc, Kansif
-Female, Half-Orc, Lagazi
-Female, Half-Orc, Lezre
-Female, Half-Orc, Murgen
-Female, Half-Orc, Murook
-Female, Half-Orc, Myev
-Female, Half-Orc, Nagrette
-Female, Half-Orc, Neega
-Female, Half-Orc, Nella
-Female, Half-Orc, Nogu
-Female, Half-Orc, Oolah
-Female, Half-Orc, Ootah
-Female, Half-Orc, Ovak
-Female, Half-Orc, Ownka
-Female, Half-Orc, Puyet
-Female, Half-Orc, Reeza
-Female, Half-Orc, Shautha
-Female, Half-Orc, Silgre
-Female, Half-Orc, Sutha
-Female, Half-Orc, Tagga
-Female, Half-Orc, Tawar
-Female, Half-Orc, Tomph
-Female, Half-Orc, Ubada
-Female, Half-Orc, Vanchu
-Female, Half-Orc, Vola
-Female, Half-Orc, Volen
-Female, Half-Orc, Vorka
-Female, Half-Orc, Yevelda
-Female, Half-Orc, Zagga
-Female, Halfing, Alain
-Female, Halfing, Andry
-Female, Halfing, Anne
-Female, Halfing, Bella
-Female, Halfing, Blossom
-Female, Halfing, Bree
-Female, Halfing, Callie
-Female, Halfing, Chenna
-Female, Halfing, Cora
-Female, Halfing, Dee
-Female, Halfing, Dell
-Female, Halfing, Eida
-Female, Halfing, Eran
-Female, Halfing, Euphemia
-Female, Halfing, Georgina
-Female, Halfing, Gynnie
-Female, Halfing, Harriet
-Female, Halfing, Jasmine
-Female, Halfing, Jillian
-Female, Halfing, Jo
-Female, Halfing, Kithri
-Female, Halfing, Lavinia
-Female, Halfing, Lidda
-Female, Halfing, Maegan
-Female, Halfing, Marigold
-Female, Halfing, Merla
-Female, Halfing, Myria
-Female, Halfing, Nedda
-Female, Halfing, Nikki
-Female, Halfing, Nora
-Female, Halfing, Olivia
-Female, Halfing, Paela
-Female, Halfing, Pearl
-Female, Halfing, Pennie
-Female, Halfing, Philomena
-Female, Halfing, Portia
-Female, Halfing, Robbie
-Female, Halfing, Rose
-Female, Halfing, Saral
-Female, Halfing, Seraphina
-Female, Halfing, Shaena
-Female, Halfing, Stacee
-Female, Halfing, Tawna
-Female, Halfing, Thea
-Female, Halfing, Trym
-Female, Halfing, Tyna
-Female, Halfing, Vani
-Female, Halfing, Verna
-Female, Halfing, Wella
-Female, Halfing, Willow
-Female, Indian, Abha
-Female, Indian, Aishwarya
-Female, Indian, Amala
-Female, Indian, Ananda
-Female, Indian, Ankita
-Female, Indian, Archana
-Female, Indian, Avani
-Female, Indian, Chandana
-Female, Indian, Chandrakanta
-Female, Indian, Chetan
-Female, Indian, Darshana
-Female, Indian, Devi
-Female, Indian, Dipti
-Female, Indian, Esha
-Female, Indian, Gauro
-Female, Indian, Gita
-Female, Indian, Indira
-Female, Indian, Indu
-Female, Indian, Jaya
-Female, Indian, Kala
-Female, Indian, Kalpana
-Female, Indian, Kamala
-Female, Indian, Kanta
-Female, Indian, Kashi
-Female, Indian, Kishori
-Female, Indian, Lalita
-Female, Indian, Lina
-Female, Indian, Madhur
-Female, Indian, Manju
-Female, Indian, Meera
-Female, Indian, Mohana
-Female, Indian, Mukta
-Female, Indian, Nisha
-Female, Indian, Nitya
-Female, Indian, Padma
-Female, Indian, Pratima
-Female, Indian, Priya
-Female, Indian, Rani
-Female, Indian, Sarala
-Female, Indian, Shakti
-Female, Indian, Shanta
-Female, Indian, Shobha
-Female, Indian, Sima
-Female, Indian, Sonal
-Female, Indian, Sumana
-Female, Indian, Sunita
-Female, Indian, Tara
-Female, Indian, Valli
-Female, Indian, Vijaya
-Female, Indian, Vimala
-Female, Japanese, Aika
-Female, Japanese, Akemi
-Female, Japanese, Akiko
-Female, Japanese, Amaya
-Female, Japanese, Asami
-Female, Japanese, Ayumi
-Female, Japanese, Bunko
-Female, Japanese, Chieko
-Female, Japanese, Chika
-Female, Japanese, Chiyo
-Female, Japanese, Cho
-Female, Japanese, Eiko
-Female, Japanese, Emiko
-Female, Japanese, Eri
-Female, Japanese, Etsuko
-Female, Japanese, Gina
-Female, Japanese, Hana
-Female, Japanese, Haruki
-Female, Japanese, Hideko
-Female, Japanese, Hikari
-Female, Japanese, Hiroko
-Female, Japanese, Hisoka
-Female, Japanese, Hishi
-Female, Japanese, Hotaru
-Female, Japanese, Izumi
-Female, Japanese, Kameyo
-Female, Japanese, Kasumi
-Female, Japanese, Kimiko
-Female, Japanese, Kotone
-Female, Japanese, Kyoko
-Female, Japanese, Maiko
-Female, Japanese, Masako
-Female, Japanese, Mi
-Female, Japanese, Minori
-Female, Japanese, Mizuki
-Female, Japanese, Naoki
-Female, Japanese, Natsuko
-Female, Japanese, Noriko
-Female, Japanese, Rei
-Female, Japanese, Ren
-Female, Japanese, Saki
-Female, Japanese, Shigeko
-Female, Japanese, Shinju
-Female, Japanese, Sumiko
-Female, Japanese, Toshiko
-Female, Japanese, Tsukiko
-Female, Japanese, Ume
-Female, Japanese, Usagi
-Female, Japanese, Yasuko
-Female, Japanese, Yuriko
-Female, Mesoamerican, Ahuiliztli
-Female, Mesoamerican, Atl
-Female, Mesoamerican, Centehua
-Female, Mesoamerican, Chalchiuitl
-Female, Mesoamerican, Chipahua
-Female, Mesoamerican, Cihuaton
-Female, Mesoamerican, Citlali
-Female, Mesoamerican, Citlalmina
-Female, Mesoamerican, Coszcatl
-Female, Mesoamerican, Cozamalotl
-Female, Mesoamerican, Cuicatl
-Female, Mesoamerican, Eleuia
-Female, Mesoamerican, Eloxochitl
-Female, Mesoamerican, Eztli
-Female, Mesoamerican, Ichtaca
-Female, Mesoamerican, Icnoyotl
-Female, Mesoamerican, lhuicatl
-Female, Mesoamerican, Ilhuitl
-Female, Mesoamerican, Itotia
-Female, Mesoamerican, luitl
-Female, Mesoamerican, Ixcatzin
-Female, Mesoamerican, Izel
-Female, Mesoamerican, Malinalxochitl
-Female, Mesoamerican, Mecatl
-Female, Mesoamerican, Meztli
-Female, Mesoamerican, Miyaoaxochitl
-Female, Mesoamerican, Mizquixaual
-Female, Mesoamerican, Moyolehuani
-Female, Mesoamerican, Nahuatl
-Female, Mesoamerican, Necahual
-Female, Mesoamerican, Nenetl
-Female, Mesoamerican, Nochtli
-Female, Mesoamerican, Noxochicoztli
-Female, Mesoamerican, Ohtli
-Female, Mesoamerican, Papan
-Female, Mesoamerican, Patli
-Female, Mesoamerican, Quetzalxochitl
-Female, Mesoamerican, Sacnite
-Female, Mesoamerican, Teicui
-Female, Mesoamerican, Tepin
-Female, Mesoamerican, Teuicui
-Female, Mesoamerican, Teyacapan
-Female, Mesoamerican, Tlaco
-Female, Mesoamerican, Tlacoehua
-Female, Mesoamerican, Tlacotl
-Female, Mesoamerican, Tlalli
-Female, Mesoamerican, Tlanextli
-Female, Mesoamerican, Xihuitl
-Female, Mesoamerican, Xiuhcoatl
-Female, Mesoamerican, Xiuhtonal
-Female, Niger-Congo, Abebi
-Female, Niger-Congo, Abena
-Female, Niger-Congo, Abimbola
-Female, Niger-Congo, Akoko
-Female, Niger-Congo, Akachi
-Female, Niger-Congo, Alaba
-Female, Niger-Congo, Anuli
-Female, Niger-Congo, Ayo
-Female, Niger-Congo, Bolanle
-Female, Niger-Congo, Bosede
-Female, Niger-Congo, Chiamaka
-Female, Niger-Congo, Chidi
-Female, Niger-Congo, Chidimma
-Female, Niger-Congo, Chinyere
-Female, Niger-Congo, Chioma
-Female, Niger-Congo, Dada
-Female, Niger-Congo, Ebele
-Female, Niger-Congo, Efemena
-Female, Niger-Congo, Ejiro
-Female, Niger-Congo, Ekundayo
-Female, Niger-Congo, Enitan
-Female, Niger-Congo, Funanya
-Female, Niger-Congo, Ifunanya
-Female, Niger-Congo, Ige
-Female, Niger-Congo, Ime
-Female, Niger-Congo, Kunto
-Female, Niger-Congo, Lesedi
-Female, Niger-Congo, Lumusi
-Female, Niger-Congo, Mojisola
-Female, Niger-Congo, Monifa
-Female, Niger-Congo, Nakato
-Female, Niger-Congo, Ndidi
-Female, Niger-Congo, Ngoz
-Female, Niger-Congo, Nkiruka
-Female, Niger-Congo, Nneka
-Female, Niger-Congo, Ogechi
-Female, Niger-Congo, Olamide
-Female, Niger-Congo, Oluchi
-Female, Niger-Congo, Omolara
-Female, Niger-Congo, Onyeka
-Female, Niger-Congo, Simisola
-Female, Niger-Congo, Temitope
-Female, Niger-Congo, Thema
-Female, Niger-Congo, Titlayo
-Female, Niger-Congo, Udo
-Female, Niger-Congo, Uduak
-Female, Niger-Congo, Ufuoma
-Female, Niger-Congo, Yaa
-Female, Niger-Congo, Yejide
-Female, Niger-Congo, Yewande
-Female, Norse, Alfhild
-Female, Norse, Arnbjorg
-Female, Norse, Ase
-Female, Norse, Aslog
-Female, Norse, Astrid
-Female, Norse, Auda
-Female, Norse, Audhid
-Female, Norse, Bergljot
-Female, Norse, Birghild
-Female, Norse, Bodil
-Female, Norse, Brenna
-Female, Norse, Brynhild
-Female, Norse, Dagmar
-Female, Norse, Eerika
-Female, Norse, Eira
-Female, Norse, Gudrun
-Female, Norse, Gunborg
-Female, Norse, Gunhild
-Female, Norse, Gunvor
-Female, Norse, Helga
-Female, Norse, Hertha
-Female, Norse, Hilde
-Female, Norse, Hillevi
-Female, Norse, Ingrid
-Female, Norse, lona
-Female, Norse, Jorunn
-Female, Norse, Kari
-Female, Norse, Kenna
-Female, Norse, Magnhild
-Female, Norse, Nanna
-Female, Norse, Olga
-Female, Norse, Ragna
-Female, Norse, Ragnhild
-Female, Norse, Ranveig
-Female, Norse, Runa
-Female, Norse, Saga
-Female, Norse, Sigfrid
-Female, Norse, Signe
-Female, Norse, Sigrid
-Female, Norse, Sigrunn
-Female, Norse, Solveg
-Female, Norse, Svanhild
-Female, Norse, Thora
-Female, Norse, Torborg
-Female, Norse, Torunn
-Female, Norse, Tove
-Female, Norse, Unn
-Female, Norse, Vigdis
-Female, Norse, Ylva
-Female, Norse, Yngvild
-Female, Polynesian, Ahulani
-Female, Polynesian, Airini
-Female, Polynesian, Alani
-Female, Polynesian, Aluala
-Female, Polynesian, Anahera
-Female, Polynesian, Anuhea
-Female, Polynesian, Aolani
-Female, Polynesian, Elenoa
-Female, Polynesian, Emele
-Female, Polynesian, Fetia
-Female, Polynesian, Fiva
-Female, Polynesian, Halona
-Female, Polynesian, Hi'ilei
-Female, Polynesian, Hina
-Female, Polynesian, Hinatea
-Female, Polynesian, Huali
-Female, Polynesian, Ini
-Female, Polynesian, Inina
-Female, Polynesian, Tolani
-Female, Polynesian, Isa
-Female, Polynesian, Ka'ana'ana
-Female, Polynesian, Ka'ena
-Female, Polynesian, Kaamia
-Female, Polynesian, Kahula
-Female, Polynesian, Kailani
-Female, Polynesian, Kamaile
-Female, Polynesian, Kamakani
-Female, Polynesian, Kamea
-Female, Polynesian, Latai
-Female, Polynesian, Liona
-Female, Polynesian, Lokelani
-Female, Polynesian, Marva
-Female, Polynesian, Mehana
-Female, Polynesian, Millawa
-Female, Polynesian, Moana
-Female, Polynesian, Ngana
-Female, Polynesian, Nohea
-Female, Polynesian, Pelika
-Female, Polynesian, Sanoe
-Female, Polynesian, Satina
-Female, Polynesian, Tahia
-Female, Polynesian, Tasi
-Female, Polynesian, Tiaho
-Female, Polynesian, Tihani
-Female, Polynesian, Toroa
-Female, Polynesian, Ulanni
-Female, Polynesian, Uluwehi
-Female, Polynesian, Vaina
-Female, Polynesian, Waiola
-Female, Polynesian, Waitara
-Female, Roman, Aelia
-Female, Roman, Aemilia
-Female, Roman, Agrippina
-Female, Roman, Alba
-Female, Roman, Antonia
-Female, Roman, Aquila
-Female, Roman, Augusta
-Female, Roman, Aurelia
-Female, Roman, Balbina
-Female, Roman, Blandina
-Female, Roman, Caelia
-Female, Roman, Camilla
-Female, Roman, Casia
-Female, Roman, Claudia
-Female, Roman, Cloelia
-Female, Roman, Domitia
-Female, Roman, Drusa
-Female, Roman, Fabia
-Female, Roman, Fabricia
-Female, Roman, Fausta
-Female, Roman, Flavia
-Female, Roman, Floriana
-Female, Roman, Fulvia
-Female, Roman, Germana
-Female, Roman, Glaucia
-Female, Roman, Gratiana
-Female, Roman, Hadriana
-Female, Roman, Hermina
-Female, Roman, Horatia
-Female, Roman, Hortensia
-Female, Roman, lovita
-Female, Roman, lulia
-Female, Roman, Laelia
-Female, Roman, Laurentia
-Female, Roman, Livia
-Female, Roman, Longina
-Female, Roman, Lucilla
-Female, Roman, Lucretia
-Female, Roman, Marcella
-Female, Roman, Marcia
-Female, Roman, Maxima
-Female, Roman, Nona
-Female, Roman, Octavia
-Female, Roman, Paulina
-Female, Roman, Petronia
-Female, Roman, Porcia
-Female, Roman, Tacita
-Female, Roman, Tullia
-Female, Roman, Verginia
-Female, Roman, Vita
-Female, Slavic, Agripina
-Female, Slavic, Anastasiya
-Female, Slavic, Bogdana
-Female, Slavic, Boleslava
-Female, Slavic, Bozhena
-Female, Slavic, Danica
-Female, Slavic, Darya
-Female, Slavic, Desislava
-Female, Slavic, Dragoslava
-Female, Slavic, Dunja
-Female, Slavic, Efrosinia
-Female, Slavic, Ekaterina
-Female, Slavic, Elena
-Female, Slavic, Faina
-Female, Slavic, Galina
-Female, Slavic, Irina
-Female, Slavic, Iskra
-Female, Slavic, Jasna
-Female, Slavic, Katarina
-Female, Slavic, Katya
-Female, Slavic, Kresimira
-Female, Slavic, Lyudmila
-Female, Slavic, Magda
-Female, Slavic, Mariya
-Female, Slavic, Militsa
-Female, Slavic, Miloslava
-Female, Slavic, Mira
-Female, Slavic, Miroslava
-Female, Slavic, Mokosh
-Female, Slavic, Morana
-Female, Slavic, Natasha
-Female, Slavic, Nika
-Female, Slavic, Olga
-Female, Slavic, Rada
-Female, Slavic, Radoslava
-Female, Slavic, Raisa
-Female, Slavic, Slavitsa
-Female, Slavic, Sofiya
-Female, Slavic, Stanislava
-Female, Slavic, Svetlana
-Female, Slavic, Tatyana
-Female, Slavic, Tomislava
-Female, Slavic, Veronika
-Female, Slavic, Vesna
-Female, Slavic, Vladimira
-Female, Slavic, Yaroslava
-Female, Slavic, Yelena
-Female, Slavic, Zaria
-Female, Slavic, Zarya
-Female, Slavic, Zoria
-Female, Spanish, Abella
-Female, Spanish, Adalina
-Female, Spanish, Adora
-Female, Spanish, Adriana
-Female, Spanish, Ana
-Female, Spanish, Antonia
-Female, Spanish, Basilia
-Female, Spanish, Beatriz
-Female, Spanish, Bonita
-Female, Spanish, Camila
-Female, Spanish, Cande
-Female, Spanish, Carmen
-Female, Spanish, Catlina
-Female, Spanish, Dolores
-Female, Spanish, Dominga
-Female, Spanish, Dorotea
-Female, Spanish, Elena
-Female, Spanish, Elicia
-Female, Spanish, Esmerelda
-Female, Spanish, Felipina
-Female, Spanish, Francisca
-Female, Spanish, Gabriela
-Female, Spanish, Imelda
-Female, Spanish, Ines
-Female, Spanish, Isabel
-Female, Spanish, Juana
-Female, Spanish, Leocadia
-Female, Spanish, Leonor
-Female, Spanish, Leta
-Female, Spanish, Lucinda
-Female, Spanish, Maresol
-Female, Spanish, Maria
-Female, Spanish, Maricela
-Female, Spanish, Matilde
-Female, Spanish, Melania
-Female, Spanish, Monica
-Female, Spanish, Neva
-Female, Spanish, Nilda
-Female, Spanish, Petrona
-Female, Spanish, Rafaela
-Female, Spanish, Ramira
-Female, Spanish, Rosario
-Female, Spanish, Sofia
-Female, Spanish, Suelo
-Female, Spanish, Teresa
-Female, Spanish, Tomasa
-Female, Spanish, Valentia
-Female, Spanish, Veronica
-Female, Spanish, Ynes
-Female, Spanish, Ysabel
-Female, Tiefling, Akta
-Female, Spanish, Anakis
-Female, Spanish, Armara
-Female, Spanish, Astaro
-Female, Spanish, Aym
-Female, Spanish, Azza
-Female, Spanish, Beleth
-Female, Spanish, Bryseis
-Female, Spanish, Bune
-Female, Spanish, Criella
-Female, Spanish, Damaia
-Female, Spanish, Decarabia
-Female, Spanish, Ea
-Female, Spanish, Gadreel
-Female, Spanish, Gomory
-Female, Spanish, Hecat
-Female, Spanish, Ishte
-Female, Spanish, Jezebeth
-Female, Spanish, Kali
-Female, Spanish, Kallista
-Female, Spanish, Kasdeya
-Female, Spanish, Lerissa
-Female, Spanish, Lilith
-Female, Spanish, Makaria
-Female, Spanish, Manea
-Female, Spanish, Markosian
-Female, Spanish, Mastema
-Female, Spanish, Naamah
-Female, Spanish, Nemeia
-Female, Spanish, Nija
-Female, Spanish, Orianna
-Female, Spanish, Osah
-Female, Spanish, Phelaia
-Female, Spanish, Prosperine
-Female, Spanish, Purah
-Female, Spanish, Pyra
-Female, Spanish, Rieta
-Female, Spanish, Ronobe
-Female, Spanish, Ronwe
-Female, Spanish, Seddit
-Female, Spanish, Seere
-Female, Spanish, Sekhmet
-Female, Spanish, Semyaza
-Female, Spanish, Shava
-Female, Spanish, Shax
-Female, Spanish, Sorath
-Female, Spanish, Uzza
-Female, Spanish, Vapula
-Female, Spanish, Vepar
-Female, Spanish, Verin
-Male, Arabic, Abbad
-Male, Arabic, Abdul
-Male, Arabic, Achmed
-Male, Arabic, Akeem
-Male, Arabic, Alif
-Male, Arabic, Amir
-Male, Arabic, Asim
-Male, Arabic, Bashir
-Male, Arabic, Bassam
-Male, Arabic, Fahim
-Male, Arabic, Farid
-Male, Arabic, Farouk
-Male, Arabic, Fayez
-Male, Arabic, Fayyaad
-Male, Arabic, Fazil
-Male, Arabic, Hakim
-Male, Arabic, Halil
-Male, Arabic, Hamid
-Male, Arabic, Hazim
-Male, Arabic, Heydar
-Male, Arabic, Hussein
-Male, Arabic, Jabari
-Male, Arabic, Jafar
-Male, Arabic, Jahid
-Male, Arabic, Jamal
-Male, Arabic, Kalim
-Male, Arabic, Karim
-Male, Arabic, Kazim
-Male, Arabic, Khadi	
-Male, Arabic, Khalid
-Male, Arabic, Mahmud
-Male, Arabic, Mansour
-Male, Arabic, Musharraf
-Male, Arabic, Mustafa
-Male, Arabic, Nadir
-Male, Arabic, Nazim
-Male, Arabic, Omar
-Male, Arabic, Qadir
-Male, Arabic, Qusay
-Male, Arabic, Rafiq
-Male, Arabic, Rakim
-Male, Arabic, Rashad
-Male, Arabic, Rauf
-Male, Arabic, Saladin
-Male, Arabic, Sami
-Male, Arabic, Samir
-Male, Arabic, Talib
-Male, Arabic, Tamir
-Male, Arabic, Tariq
-Male, Arabic, Yazid
-Male, Celtic, Airell
-Male, Celtic, Airic
-Male, Celtic, Alan
-Male, Celtic, Anghus
-Male, Celtic, Aodh
-Male, Celtic, Bardon
-Male, Celtic, Bearacb
-Male, Celtic, Bevyn
-Male, Celtic, Boden
-Male, Celtic, Bran
-Male, Celtic, Brasil
-Male, Celtic, Bredon
-Male, Celtic, Brian
-Male, Celtic, Bricriu
-Male, Celtic, Bryant
-Male, Celtic, Cadman
-Male, Celtic, Caradoc
-Male, Celtic, Cedric
-Male, Celtic, Conalt
-Male, Celtic, Conchobar
-Male, Celtic, Condon
-Male, Celtic, Darcy
-Male, Celtic, Devin
-Male, Celtic, Dillion
-Male, Celtic, Donaghy
-Male, Celtic, Donall
-Male, Celtic, Duer
-Male, Celtic, Eghan
-Male, Celtic, Ewyn
-Male, Celtic, Ferghus
-Male, Celtic, Galvyn
-Male, Celtic, Gildas
-Male, Celtic, Guy
-Male, Celtic, Harvey
-Male, Celtic, Iden
-Male, Celtic, Irven
-Male, Celtic, Karney
-Male, Celtic, Kayne
-Male, Celtic, Kelvyn
-Male, Celtic, Kunsgnos
-Male, Celtic, Leigh
-Male, Celtic, Maccus
-Male, Celtic, Moryn
-Male, Celtic, Neale
-Male, Celtic, Owyn
-Male, Celtic, Pryderi
-Male, Celtic, Reaghan
-Male, Celtic, Taliesin
-Male, Celtic, Tiernay
-Male, Celtic, Turi
-Male, Chinese, Bingwen
-Male, Chinese, Bo
-Male, Chinese, Bolin
-Male, Chinese, Chang
-Male, Chinese, Chao
-Male, Chinese, Chen
-Male, Chinese, Cheng
-Male, Chinese, Da
-Male, Chinese, Dingxiang
-Male, Chinese, Fang
-Male, Chinese, Feng
-Male, Chinese, Fu
-Male, Chinese, Gang
-Male, Chinese, Guang
-Male, Chinese, Hai
-Male, Chinese, Heng
-Male, Chinese, Hong
-Male, Chinese, Huan
-Male, Chinese, Huang
-Male, Chinese, Huiliang
-Male, Chinese, Huizhong
-Male, Chinese, Jian
-Male, Chinese, Jiayi
-Male, Chinese, Junjie
-Male, Chinese, Kang
-Male, Chinese, Lei
-Male, Chinese, Liang
-Male, Chinese, Ling
-Male, Chinese, Liwei
-Male, Chinese, Meilin
-Male, Chinese, Niu
-Male, Chinese, Peizhi
-Male, Chinese, Peng
-Male, Chinese, Ping
-Male, Chinese, Qiang
-Male, Chinese, Qiu
-Male, Chinese, Quan
-Male, Chinese, Renshu
-Male, Chinese, Rong
-Male, Chinese, Ru
-Male, Chinese, Shan
-Male, Chinese, Shen
-Male, Chinese, Tengfei
-Male, Chinese, Wei
-Male, Chinese, Xiaobo
-Male, Chinese, Xiaoli
-Male, Chinese, Xin
-Male, Chinese, Yang
-Male, Chinese, Ying
-Male, Chinese, Zhong
-Male, Dragonkin, Adrex
-Male, Dragonkin, Arjhan
-Male, Dragonkin, Azzakh
-Male, Dragonkin, Balasar
-Male, Dragonkin, Baradad
-Male, Dragonkin, Bharash
-Male, Dragonkin, Bidreked
-Male, Dragonkin, Dadalan
-Male, Dragonkin, Dazzazn
-Male, Dragonkin, Direcris
-Male, Dragonkin, Donaar
-Male, Dragonkin, Fax
-Male, Dragonkin, Gargax
-Male, Dragonkin, Ghesh
-Male, Dragonkin, Gorbundus
-Male, Dragonkin, Greethen
-Male, Dragonkin, Heskan
-Male, Dragonkin, Hirrathak
-Male, Dragonkin, Ildrex
-Male, Dragonkin, Kaladan
-Male, Dragonkin, Kerkad
-Male, Dragonkin, Kiirith
-Male, Dragonkin, Kriv
-Male, Dragonkin, Maagog
-Male, Dragonkin, Medrash
-Male, Dragonkin, Mehen
-Male, Dragonkin, Mozikth
-Male, Dragonkin, Mreksh
-Male, Dragonkin, Mugrunden
-Male, Dragonkin, Nadarr
-Male, Dragonkin, Nithther
-Male, Dragonkin, Norkruuth
-Male, Dragonkin, Nykkan
-Male, Dragonkin, Pandjed
-Male, Dragonkin, Patrin
-Male, Dragonkin, Pijjirik
-Male, Dragonkin, Quarethon
-Male, Dragonkin, Rathkan
-Male, Dragonkin, Rhogar
-Male, Dragonkin, Rivaan
-Male, Dragonkin, Sethrekar
-Male, Dragonkin, Shamash
-Male, Dragonkin, Shedinn
-Male, Dragonkin, Srorthen
-Male, Dragonkin, Tarhun
-Male, Dragonkin, Torinn
-Male, Dragonkin, Trynnicus
-Male, Dragonkin, Valorean
-Male, Dragonkin, Vrondiss
-Male, Dragonkin, Zedaar
-Male, Dwarf, Adrik
-Male, Dwarf, Alberich
-Male, Dwarf, Baern
-Male, Dwarf, Barendd
-Male, Dwarf, Beloril
-Male, Dwarf, Brottor
-Male, Dwarf, Dain
-Male, Dwarf, Dalgal
-Male, Dwarf, Darrak
-Male, Dwarf, Delg
-Male, Dwarf, Duergath
-Male, Dwarf, Dworic
-Male, Dwarf, Eberk
-Male, Dwarf, Einkil
-Male, Dwarf, Elaim
-Male, Dwarf, Erias
-Male, Dwarf, Fallond
-Male, Dwarf, Fargrim
-Male, Dwarf, Gardain
-Male, Dwarf, Gilthur
-Male, Dwarf, Gimgen
-Male, Dwarf, Gimurt
-Male, Dwarf, Harbek
-Male, Dwarf, Kildrak
-Male, Dwarf, Kilvar
-Male, Dwarf, Morgran
-Male, Dwarf, Morkral
-Male, Dwarf, Nalral
-Male, Dwarf, Nordak
-Male, Dwarf, Nuraval
-Male, Dwarf, Oloric
-Male, Dwarf, Olunt
-Male, Dwarf, Orsik
-Male, Dwarf, Oskar
-Male, Dwarf, Rangrim
-Male, Dwarf, Reirak
-Male, Dwarf, Rurik
-Male, Dwarf, Taklinn
-Male, Dwarf, Thoradin
-Male, Dwarf, Thorin
-Male, Dwarf, Thradal
-Male, Dwarf, Tordek
-Male, Dwarf, Traubon
-Male, Dwarf, Travok
-Male, Dwarf, Ulfgar
-Male, Dwarf, Uraim
-Male, Dwarf, Veit
-Male, Dwarf, Vonbin
-Male, Dwarf, Vondal
-Male, Dwarf, Whurbin
-Male, Egyptian, Ahmose
-Male, Egyptian, Akhom
-Male, Egyptian, Amasis
-Male, Egyptian, Amenemhet
-Male, Egyptian, Anen
-Male, Egyptian, Banefre
-Male, Egyptian, Bek
-Male, Egyptian, Djedefre
-Male, Egyptian, Djoser
-Male, Egyptian, Hekaib
-Male, Egyptian, Henenu
-Male, Egyptian, Horemheb
-Male, Egyptian, Horwedja
-Male, Egyptian, Huya
-Male, Egyptian, Ibebi
-Male, Egyptian, Idu
-Male, Egyptian, Imhotep
-Male, Egyptian, Ineni
-Male, Egyptian, Ipuki
-Male, Egyptian, Irsu
-Male, Egyptian, Kagemni
-Male, Egyptian, Kawab
-Male, Egyptian, Kenamon
-Male, Egyptian, Kewap
-Male, Egyptian, Khaemwaset
-Male, Egyptian, Khafra
-Male, Egyptian, Khusebek
-Male, Egyptian, Masaharta
-Male, Egyptian, Meketre
-Male, Egyptian, Menkhaf
-Male, Egyptian, Merenre
-Male, Egyptian, Metjen
-Male, Egyptian, Nebamun
-Male, Egyptian, Nebetka
-Male, Egyptian, Nehi
-Male, Egyptian, Nekure
-Male, Egyptian, Nessumontu
-Male, Egyptian, Pakhom
-Male, Egyptian, Pawah
-Male, Egyptian, Pawero
-Male, Egyptian, Ramose
-Male, Egyptian, Rudjek
-Male, Egyptian, Sabaf
-Male, Egyptian, Sebek-khu
-Male, Egyptian, Sebni
-Male, Egyptian, Senusret
-Male, Egyptian, Shabaka
-Male, Egyptian, Somintu
-Male, Egyptian, Thaneni
-Male, Egyptian, Thethi
-Male, Elf, Adran
-Male, Elf, Aelar
-Male, Elf, Aerdeth
-Male, Elf, Ahvain
-Male, Elf, Aramil
-Male, Elf, Arannis
-Male, Elf, Aust
-Male, Elf, Azaki
-Male, Elf, Beiro
-Male, Elf, Berrian
-Male, Elf, Caeldrim
-Male, Elf, Carric
-Male, Elf, Dayereth
-Male, Elf, Dreali
-Male, Elf, Efferil
-Male, Elf, Eiravel
-Male, Elf, Enialis
-Male, Elf, Erdan
-Male, Elf, Erevan
-Male, Elf, Fivin
-Male, Elf, Galinndan
-Male, Elf, Gennal
-Male, Elf, Hadarai
-Male, Elf, Halimath
-Male, Elf, Heian
-Male, Elf, Himo
-Male, Elf, Immeral
-Male, Elf, Ivellios
-Male, Elf, Korfel
-Male, Elf, Lamlis
-Male, Elf, Laucian
-Male, Elf, Lucan
-Male, Elf, Mindartis
-Male, Elf, Naal
-Male, Elf, Nutae
-Male, Elf, Paelias
-Male, Elf, Peren
-Male, Elf, Quarion
-Male, Elf, Riardon
-Male, Elf, Rolen
-Male, Elf, Soveliss
-Male, Elf, Suhnae
-Male, Elf, Thamior
-Male, Elf, Tharivol
-Male, Elf, Theren
-Male, Elf, Theriatis
-Male, Elf, Thervan
-Male, Elf, Uthemar
-Male, Elf, Vanuath
-Male, Elf, Varis
-Male, English, Adam
-Male, English, Adelard
-Male, English, Aldous
-Male, English, Anselm
-Male, English, Arnold
-Male, English, Bernard
-Male, English, Bertram
-Male, English, Charles
-Male, English, Clerebold
-Male, English, Conrad
-Male, English, Diggory
-Male, English, Drogo
-Male, English, Everard
-Male, English, Frederick
-Male, English, Geoffrey
-Male, English, Gerald
-Male, English, Gilbert
-Male, English, Godfrey
-Male, English, Gunter
-Male, English, Guy
-Male, English, Henry
-Male, English, Heward
-Male, English, Hubert
-Male, English, Hugh
-Male, English, Jocelyn
-Male, English, John
-Male, English, Lance
-Male, English, Manfred
-Male, English, Miles
-Male, English, Nicholas
-Male, English, Norman
-Male, English, Odo
-Male, English, Percival
-Male, English, Peter
-Male, English, Ralf
-Male, English, Randal
-Male, English, Raymond
-Male, English, Reynard
-Male, English, Richard
-Male, English, Robert
-Male, English, Roger
-Male, English, Roland
-Male, English, Rolf
-Male, English, Simon
-Male, English, Theobald
-Male, English, Theodoric
-Male, English, Thomas
-Male, English, Timm
-Male, English, William
-Male, English, Wymar
-Male, French, Ambroys
-Male, French, Ame
-Male, French, Andri
-Male, French, Andriet
-Male, French, Anthoine
-Male, French, Bernard
-Male, French, Charles
-Male, French, Charlot
-Male, French, Colin
-Male, French, Denis
-Male, French, Durant
-Male, French, Edouart
-Male, French, Eremon
-Male, French, Ernault
-Male, French, Ethor
-Male, French, Felix
-Male, French, Floquart
-Male, French, Galleren
-Male, French, Gaultier
-Male, French, Gilles
-Male, French, Guy
-Male, French, Henry
-Male, French, Hugo
-Male, French, Imbert
-Male, French, Jacques
-Male, French, Jacquot
-Male, French, Jean
-Male, French, Jehannin
-Male, French, Louis
-Male, French, Louys
-Male, French, Loys
-Male, French, Martin
-Male, French, Michel
-Male, French, Mille
-Male, French, Morelet
-Male, French, Nicolas
-Male, French, Nicolle
-Male, French, Oudart
-Male, French, Perrin
-Male, French, Phillippe
-Male, French, Pierre
-Male, French, Regnault
-Male, French, Richart
-Male, French, Robert
-Male, French, Robinet
-Male, French, Sauvage
-Male, French, Simon
-Male, French, Talbot
-Male, French, Tanguy
-Male, French, Vincent
-Male, German, Albrecht
-Male, German, Allexander
-Male, German, Baltasar
-Male, German, Benedick
-Male, German, Berhart
-Male, German, Caspar
-Male, German, Clas
-Male, German, Cristin
-Male, German, Cristoff
-Male, German, Dieterich
-Male, German, Engelhart
-Male, German, Erhart
-Male, German, Felix
-Male, German, Frantz
-Male, German, Fritz
-Male, German, Gerhart
-Male, German, Gotleib
-Male, German, Hans
-Male, German, Hartmann
-Male, German, Heintz
-Male, German, Herman
-Male, German, Jacob
-Male, German, Jeremias
-Male, German, Jorg
-Male, German, Karll
-Male, German, Kilian
-Male, German, Linhart
-Male, German, Lorentz
-Male, German, Ludwig
-Male, German, Marx
-Male, German, Melchor
-Male, German, Mertin
-Male, German, Michel
-Male, German, Moritz
-Male, German, Osswald
-Male, German, Ott
-Male, German, Peter
-Male, German, Rudolff
-Male, German, Ruprecht
-Male, German, Sewastian
-Male, German, Sigmund
-Male, German, Steffan
-Male, German, Symon
-Male, German, Thoman
-Male, German, Ulrich
-Male, German, Vallentin
-Male, German, Wendel
-Male, German, Wilhelm
-Male, German, Wolff
-Male, German, Wolfgang
-Male, Gnome, Alston
-Male, Gnome, Alvyn
-Male, Gnome, Anverth
-Male, Gnome, Arumawann
-Male, Gnome, Bilbron
-Male, Gnome, Boddynock
-Male, Gnome, Brocc
-Male, Gnome, Burgell
-Male, Gnome, Cockaby
-Male, Gnome, Crampernap
-Male, Gnome, Dabbledob
-Male, Gnome, Delebean
-Male, Gnome, Dimble
-Male, Gnome, Eberdeb
-Male, Gnome, Eldon
-Male, Gnome, Erky
-Male, Gnome, Fablen
-Male, Gnome, Fibblestib
-Male, Gnome, Fonkin
-Male, Gnome, Frouse
-Male, Gnome, Frug
-Male, Gnome, Gerbo
-Male, Gnome, Gimble
-Male, Gnome, Glim
-Male, Gnome, Igden
-Male, Gnome, Jabble
-Male, Gnome, Jebeddo
-Male, Gnome, Kellen
-Male, Gnome, Kipper
-Male, Gnome, Namfoodle
-Male, Gnome, Oppleby
-Male, Gnome, Orryn
-Male, Gnome, Paggen
-Male, Gnome, Pallabar
-Male, Gnome, Pog
-Male, Gnome, Ribbles
-Male, Gnome, Rimple
-Male, Gnome, Roondar
-Male, Gnome, Sapply
-Male, Gnome, Seebo
-Male, Gnome, Senteq
-Male, Gnome, Sindri
-Male, Gnome, Umpen
-Male, Gnome, Warryn
-Male, Gnome, Wiggens
-Male, Gnome, Wobbles
-Male, Gnome, Wrenn
-Male, Gnome, Zaffrab
-Male, Gnome, Zook
-Male, Greek, Adonis
-Male, Greek, Adrastos
-Male, Greek, Aeson
-Male, Greek, Aias
-Male, Greek, Aineias
-Male, Greek, Aiolos
-Male, Greek, Alekto
-Male, Greek, Alkeides
-Male, Greek, Argos
-Male, Greek, Brontes
-Male, Greek, Damazo
-Male, Greek, Dardanos
-Male, Greek, Deimos
-Male, Greek, Diomedes
-Male, Greek, Endymion
-Male, Greek, Epimetheus
-Male, Greek, Erebos
-Male, Greek, Euandros
-Male, Greek, Ganymedes
-Male, Greek, Glaukos
-Male, Greek, Hektor
-Male, Greek, Heros
-Male, Greek, Hippolytos
-Male, Greek, lacchus
-Male, Greek, lason
-Male, Greek, Kadmos
-Male, Greek, Kastor
-Male, Greek, Kephalos
-Male, Greek, Kepheus
-Male, Greek, Koios
-Male, Greek, Kreios
-Male, Greek, Laios
-Male, Greek, Leandros
-Male, Greek, Linos
-Male, Greek, Lykos
-Male, Greek, Melanthios
-Male, Greek, Menelaus
-Male, Greek, Mentor
-Male, Greek, Neoptolemus
-Male, Greek, Okeanos
-Male, Greek, Orestes
-Male, Greek, Pallas
-Male, Greek, Patroklos
-Male, Greek, Philandros
-Male, Greek, Phoibos
-Male, Greek, Phrixus
-Male, Greek, Priamos
-Male, Greek, Pyrrhos
-Male, Greek, Xanthos
-Male, Greek, Zephyros
-Male, Half-Orc, Argran
-Male, Half-Orc, Braak
-Male, Half-Orc, Brug
-Male, Half-Orc, Cagak
-Male, Half-Orc, Dench
-Male, Half-Orc, Dorn
-Male, Half-Orc, Dren
-Male, Half-Orc, Druuk
-Male, Half-Orc, Feng
-Male, Half-Orc, Gell
-Male, Half-Orc, Gnarsh
-Male, Half-Orc, Grumbar
-Male, Half-Orc, Gubrash
-Male, Half-Orc, Hagren
-Male, Half-Orc, Henk
-Male, Half-Orc, Hogar
-Male, Half-Orc, Holg
-Male, Half-Orc, Imsh
-Male, Half-Orc, Karash
-Male, Half-Orc, Karg
-Male, Half-Orc, Keth
-Male, Half-Orc, Korag
-Male, Half-Orc, Krusk
-Male, Half-Orc, Lubash
-Male, Half-Orc, Megged
-Male, Half-Orc, Mhurren
-Male, Half-Orc, Mord
-Male, Half-Orc, Morg
-Male, Half-Orc, Nil
-Male, Half-Orc, Nybarg
-Male, Half-Orc, Odor
-Male, Half-Orc, Ohr
-Male, Half-Orc, Rendar
-Male, Half-Orc, Resh
-Male, Half-Orc, Ront
-Male, Half-Orc, Rrath
-Male, Half-Orc, Sark
-Male, Half-Orc, Scrag
-Male, Half-Orc, Sheggen
-Male, Half-Orc, Shump
-Male, Half-Orc, Tanglar
-Male, Half-Orc, Tarak
-Male, Half-Orc, Thar
-Male, Half-Orc, Thokk
-Male, Half-Orc, Trag
-Male, Half-Orc, Ugarth
-Male, Half-Orc, Varg
-Male, Half-Orc, Vilberg
-Male, Half-Orc, Yurk
-Male, Half-Orc, Zed
-Male, Halfling, Alton
-Male, Halfling, Ander
-Male, Halfling, Bernie
-Male, Halfling, Bobbin
-Male, Halfling, Cade
-Male, Halfling, Callus
-Male, Halfling, Corrin
-Male, Halfling, Dannad
-Male, Halfling, Danniel
-Male, Halfling, Eddie
-Male, Halfling, Egart
-Male, Halfling, Eldon
-Male, Halfling, Errich
-Male, Halfling, Fildo
-Male, Halfling, Finnan
-Male, Halfling, Franklin
-Male, Halfling, Garret
-Male, Halfling, Garth
-Male, Halfling, Gilbert
-Male, Halfling, Gob
-Male, Halfling, Harol
-Male, Halfling, Igor
-Male, Halfling, Jasper
-Male, Halfling, Keith
-Male, Halfling, Kevin
-Male, Halfling, Lazam
-Male, Halfling, Lerry
-Male, Halfling, Lindal
-Male, Halfling, Lyle
-Male, Halfling, Merric
-Male, Halfling, Mican
-Male, Halfling, Milo
-Male, Halfling, Morrin
-Male, Halfling, Nebin
-Male, Halfling, Nevil
-Male, Halfling, Osborn
-Male, Halfling, Ostran
-Male, Halfling, Oswalt
-Male, Halfling, Perrin
-Male, Halfling, Poppy
-Male, Halfling, Reed
-Male, Halfling, Roscoe
-Male, Halfling, Sam
-Male, Halfling, Shardon
-Male, Halfling, Tye
-Male, Halfling, Ulmo
-Male, Halfling, Wellby
-Male, Halfling, Wendel
-Male, Halfling, Wenner
-Male, Halfling, Wes
-Male, Indian, Abhay
-Male, Indian, Ahsan
-Male, Indian, Ajay
-Male, Indian, Ajit
-Male, Indian, Akhil
-Male, Indian, Amar
-Male, Indian, Amit
-Male, Indian, Ananta
-Male, Indian, Aseem
-Male, Indian, Ashok
-Male, Indian, Bahadur
-Male, Indian, Basu
-Male, Indian, Chand
-Male, Indian, Chandra
-Male, Indian, Damodar
-Male, Indian, Darhsan
-Male, Indian, Devdan
-Male, Indian, Dinesh
-Male, Indian, Dipak
-Male, Indian, Gopal
-Male, Indian, Govind
-Male, Indian, Harendra
-Male, Indian, Harsha
-Male, Indian, Ila
-Male, Indian, Isha
-Male, Indian, Johar
-Male, Indian, Kalyan
-Male, Indian, Kiran
-Male, Indian, Kumar
-Male, Indian, Lakshmana
-Male, Indian, Mahavir
-Male, Indian, Narayan
-Male, Indian, Naveen
-Male, Indian, Nirav
-Male, Indian, Prabhakar
-Male, Indian, Prasanna
-Male, Indian, Raghu
-Male, Indian, Rajanikant
-Male, Indian, Rakesh
-Male, Indian, Ranjeet
-Male, Indian, Rishi
-Male, Indian, Sanjay
-Male, Indian, Sekar
-Male, Indian, Shandar
-Male, Indian, Sumantra
-Male, Indian, Vijay
-Male, Indian, Vikram
-Male, Indian, Vimal
-Male, Indian, Vishal
-Male, Indian, Yash
-Male, Japanese, Akio
-Male, Japanese, Atsushi
-Male, Japanese, Daichi
-Male, Japanese, Daiki
-Male, Japanese, Daisuke
-Male, Japanese, Eiji
-Male, Japanese, Fumio
-Male, Japanese, Hajime
-Male, Japanese, Haru
-Male, Japanese, Hideaki
-Male, Japanese, Hideo
-Male, Japanese, Hikaru
-Male, Japanese, Hiro
-Male, Japanese, Hiroki
-Male, Japanese, Hisao
-Male, Japanese, Hitoshi
-Male, Japanese, Isamu
-Male, Japanese, Isao
-Male, Japanese, Jun
-Male, Japanese, Katashi
-Male, Japanese, Katsu
-Male, Japanese, Kei
-Male, Japanese, Ken
-Male, Japanese, Kenshin
-Male, Japanese, Kenta
-Male, Japanese, Kioshi
-Male, Japanese, Makoto
-Male, Japanese, Mamoru
-Male, Japanese, Masato
-Male, Japanese, Masumi
-Male, Japanese, Noboru
-Male, Japanese, Norio
-Male, Japanese, Osamu
-Male, Japanese, Ryota
-Male, Japanese, Sadao
-Male, Japanese, Satoshi
-Male, Japanese, Shigeo
-Male, Japanese, Shin
-Male, Japanese, Sora
-Male, Japanese, Tadao
-Male, Japanese, Takehiko
-Male, Japanese, Takeo
-Male, Japanese, Takeshi
-Male, Japanese, Takumi
-Male, Japanese, Tamotsu
-Male, Japanese, Tatsuo
-Male, Japanese, Toru
-Male, Japanese, Toshio
-Male, Japanese, Yasuo
-Male, Japanese, Yukio
-Male, Mesoamerican, Achcauhtli
-Male, Mesoamerican, Amoxtli
-Male, Mesoamerican, Chicahua
-Male, Mesoamerican, Chimalli
-Male, Mesoamerican, Cipactli
-Male, Mesoamerican, Coaxoch
-Male, Mesoamerican, Coyotl
-Male, Mesoamerican, Cualli
-Male, Mesoamerican, Cuauhtémoc
-Male, Mesoamerican, Cuetlachtilo
-Male, Mesoamerican, Cuetzpalli
-Male, Mesoamerican, Cuixtli
-Male, Mesoamerican, Ehecatl
-Male, Mesoamerican, Etalpalli
-Male, Mesoamerican, Huemac
-Male, Mesoamerican, Huitzilihuitl
-Male, Mesoamerican, Iccauhtli
-Male, Mesoamerican, Ilhicamina
-Male, Mesoamerican, Itztli
-Male, Mesoamerican, Ixtli
-Male, Mesoamerican, Mahuizoh
-Male, Mesoamerican, Manauia
-Male, Mesoamerican, Matlal
-Male, Mesoamerican, Matlalihuitl
-Male, Mesoamerican, Mazatl
-Male, Mesoamerican, Mictlantecuhtli
-Male, Mesoamerican, Milintica
-Male, Mesoamerican, Momoztli
-Male, Mesoamerican, Namacuix
-Male, Mesoamerican, Necalli
-Male, Mesoamerican, Necuametl
-Male, Mesoamerican, Nezahualcoyotl
-Male, Mesoamerican, Nexahualpilli
-Male, Mesoamerican, Nochehuatl
-Male, Mesoamerican, Nopaltzin
-Male, Mesoamerican, Ollin
-Male, Mesoamerican, Quauhtli
-Male, Mesoamerican, Tenoch
-Male, Mesoamerican, Teoxihuitl
-Male, Mesoamerican, Tepiltzin
-Male, Mesoamerican, Tezcacoatl
-Male, Mesoamerican, Tlacaelel
-Male, Mesoamerican, Tlacelel
-Male, Mesoamerican, Tlaloc
-Male, Mesoamerican, Tlanextic
-Male, Mesoamerican, Tlazohtlaloni
-Male, Mesoamerican, Tlazopillo
-Male, Mesoamerican, Uetzcayotl
-Male, Mesoamerican, Xipilli
-Male, Mesoamerican, Yaotl
-Male, Niger-Congo, Abebe
-Male, Niger-Congo, Abel
-Male, Niger-Congo, Abidemi
-Male, Niger-Congo, Abrafo
-Male, Niger-Congo, Adisa
-Male, Niger-Congo, Amadi
-Male, Niger-Congo, Amara
-Male, Niger-Congo, Anyim
-Male, Niger-Congo, Azubuike
-Male, Niger-Congo, Bapoto
-Male, Niger-Congo, Baraka
-Male, Niger-Congo, Bohlale
-Male, Niger-Congo, Bongani
-Male, Niger-Congo, Bujune
-Male, Niger-Congo, Buziba
-Male, Niger-Congo, Chakide
-Male, Niger-Congo, Chibuzo
-Male, Niger-Congo, Chika
-Male, Niger-Congo, Chimola
-Male, Niger-Congo, Chiratidzo
-Male, Niger-Congo, Dabulamanzi
-Male, Niger-Congo, Dumisa
-Male, Niger-Congo, Dwanh
-Male, Niger-Congo, Emeka
-Male, Niger-Congo, Folami
-Male, Niger-Congo, Gatura
-Male, Niger-Congo, Gebhuza
-Male, Niger-Congo, Gero
-Male, Niger-Congo, Isoba
-Male, Niger-Congo, Kagiso
-Male, Niger-Congo, Kamau
-Male, Niger-Congo, Katlego
-Male, Niger-Congo, Masego
-Male, Niger-Congo, Matata
-Male, Niger-Congo, Nthanda
-Male, Niger-Congo, Ogechi
-Male, Niger-Congo, Olwenyo
-Male, Niger-Congo, Osumare
-Male, Niger-Congo, Paki
-Male, Niger-Congo, Qinisela
-Male, Niger-Congo, Quanda
-Male, Niger-Congo, Samanya
-Male, Niger-Congo, Shanika
-Male, Niger-Congo, Sibonakaliso
-Male, Niger-Congo, Tapiwa
-Male, Niger-Congo, Thabo
-Male, Niger-Congo, Themba
-Male, Niger-Congo, Uzoma
-Male, Niger-Congo, Zuberi
-Male, Niger-Congo, Zuri
-Male, Norse, Agni
-Male, Niger-Congo, Alaric
-Male, Niger-Congo, Anvindr
-Male, Niger-Congo, Arvid
-Male, Niger-Congo, Asger
-Male, Niger-Congo, Asmund
-Male, Niger-Congo, Bjarte
-Male, Niger-Congo, Bjorg
-Male, Niger-Congo, Bjorn
-Male, Niger-Congo, Brandr
-Male, Niger-Congo, Brandt
-Male, Niger-Congo, Brynjar
-Male, Niger-Congo, Calder
-Male, Niger-Congo, Colborn
-Male, Niger-Congo, Cuyler
-Male, Niger-Congo, Egil
-Male, Niger-Congo, Einar
-Male, Niger-Congo, Eric
-Male, Niger-Congo, Erland
-Male, Niger-Congo, Fiske
-Male, Niger-Congo, Folkvar
-Male, Niger-Congo, Fritjof
-Male, Niger-Congo, Frode
-Male, Niger-Congo, Geir
-Male, Niger-Congo, Halvar
-Male, Niger-Congo, Hemming
-Male, Niger-Congo, Hjalmar
-Male, Niger-Congo, Hjortr
-Male, Niger-Congo, Ingimarr
-Male, Niger-Congo, Ivar
-Male, Niger-Congo, Knud
-Male, Niger-Congo, Leif
-Male, Niger-Congo, Liufr
-Male, Niger-Congo, Manning
-Male, Niger-Congo, Oddr
-Male, Niger-Congo, Olin
-Male, Niger-Congo, Ormr
-Male, Niger-Congo, Ove
-Male, Niger-Congo, Rannulfr
-Male, Niger-Congo, Sigurd
-Male, Niger-Congo, Skari
-Male, Niger-Congo, Snorri
-Male, Niger-Congo, Sten
-Male, Niger-Congo, Stigandr
-Male, Niger-Congo, Stigr
-Male, Niger-Congo, Sven
-Male, Niger-Congo, Trygve
-Male, Niger-Congo, Ulf
-Male, Niger-Congo, Vali
-Male, Niger-Congo, Vidar
-Male, Polynesian, Afa
-Male, Norse, Ahohako
-Male, Norse, Aisake
-Male, Norse, Aleki
-Male, Norse, Anewa
-Male, Norse, Anitelu
-Male, Norse, Aputi
-Male, Norse, Ariki
-Male, Norse, Butat
-Male, Norse, Enele
-Male, Norse, Fef
-Male, Norse, Fuifui
-Male, Norse, Ha'aheo
-Male, Norse, Hanohano
-Male, Norse, Haunui
-Male, Norse, Hekili
-Male, Norse, Hiapo
-Male, Norse, Hikawera
-Male, Norse, Hanano
-Male, Norse, Ho'onani
-Male, Norse, Hoku
-Male, Norse, Hûʼeu
-Male, Norse, Ina
-Male, Norse, Itu
-Male, Norse, Ka'aukai
-Male, Norse, Ka'eo
-Male, Norse, Kaelani
-Male, Norse, Kahale
-Male, Norse, Kaiea
-Male, Norse, Kaikoa
-Male, Norse, Kana'l
-Male, Norse, Koamalu
-Male, Norse, Ka
-Male, Norse, Laki
-Male, Norse, Makai
-Male, Norse, Manu
-Male, Norse, Manuka
-Male, Norse, Nui
-Male, Norse, Pono
-Male, Norse, Popoki
-Male, Norse, Ruru
-Male, Norse, Tahu
-Male, Norse, Taurau
-Male, Norse, Tuala
-Male, Norse, Turoa
-Male, Norse, Tusitala
-Male, Norse, Uaine
-Male, Norse, Waata
-Male, Norse, Waipuna
-Male, Norse, Zamar
-Male, Polynesian, Afa
-Male, Polynesian, Ahohako
-Male, Polynesian, Aisake
-Male, Polynesian, Aleki
-Male, Polynesian, Anewa
-Male, Polynesian, Anitelu
-Male, Polynesian, Aputi
-Male, Polynesian, Ariki
-Male, Polynesian, Butat
-Male, Polynesian, Enele
-Male, Polynesian, Fef
-Male, Polynesian, Fuifui
-Male, Polynesian, Ha'aheo
-Male, Polynesian, Hanohano
-Male, Polynesian, Haunui
-Male, Polynesian, Hekili
-Male, Polynesian, Hiapo
-Male, Polynesian, Hikawera
-Male, Polynesian, Hanano
-Male, Polynesian, Ho'onani
-Male, Polynesian, Hoku
-Male, Polynesian, Hûʼeu
-Male, Polynesian, Ina
-Male, Polynesian, Itu
-Male, Polynesian, Ka'aukai
-Male, Polynesian, Ka'eo
-Male, Polynesian, Kaelani
-Male, Polynesian, Kahale
-Male, Polynesian, Kaiea
-Male, Polynesian, Kaikoa
-Male, Polynesian, Kana'l
-Male, Polynesian, Koamalu
-Male, Polynesian, Ka
-Male, Polynesian, Laki
-Male, Polynesian, Makai
-Male, Polynesian, Manu
-Male, Polynesian, Manuka
-Male, Polynesian, Nui
-Male, Polynesian, Pono
-Male, Polynesian, Popoki
-Male, Polynesian, Ruru
-Male, Polynesian, Tahu
-Male, Polynesian, Taurau
-Male, Polynesian, Tuala
-Male, Polynesian, Turoa
-Male, Polynesian, Tusitala
-Male, Polynesian, Uaine
-Male, Polynesian, Waata
-Male, Polynesian, Waipuna
-Male, Polynesian, Zamar
-Male, Roman, Aelius
-Male, Roman, Aetius
-Male, Roman, Agrippa
-Male, Roman, Albanus
-Male, Roman, Albus
-Male, Roman, Antonius
-Male, Roman, Appius
-Male, Roman, Aquilinus
-Male, Roman, Atilus
-Male, Roman, Augustus
-Male, Roman, Aurelius
-Male, Roman, Avitus
-Male, Roman, Balbus
-Male, Roman, Blandus
-Male, Roman, Blasius
-Male, Roman, Brutus
-Male, Roman, Caelius
-Male, Roman, Caius
-Male, Roman, Casian
-Male, Roman, Cassius
-Male, Roman, Cato
-Male, Roman, Celsus
-Male, Roman, Claudius
-Male, Roman, Cloelius
-Male, Roman, Cnaeus
-Male, Roman, Crispus
-Male, Roman, Cyprianus
-Male, Roman, Diocletianus
-Male, Roman, Egnatius
-Male, Roman, Ennius
-Male, Roman, Fabricius
-Male, Roman, Faustus
-Male, Roman, Gaius
-Male, Roman, Germanus
-Male, Roman, Gnaeus
-Male, Roman, Horatius
-Male, Roman, lovianus
-Male, Roman, lulius
-Male, Roman, Lucilius
-Male, Roman, Manius
-Male, Roman, Marcus
-Male, Roman, Marius
-Male, Roman, Maximus
-Male, Roman, Octavius
-Male, Roman, Paulus
-Male, Roman, Quintilian
-Male, Roman, Regulus
-Male, Roman, Servius
-Male, Roman, Tacitus
-Male, Roman, Varius
-Male, Slavic, Aleksandru
-Male, Slavic, Berislav
-Male, Slavic, Blazh
-Male, Slavic, Bogumir
-Male, Slavic, Boguslav
-Male, Slavic, Borislav
-Male, Slavic, Bozhidar
-Male, Slavic, Bratomil
-Male, Slavic, Bratoslav
-Male, Slavic, Bronislav
-Male, Slavic, Chedomir
-Male, Slavic, Chestibor
-Male, Slavic, Chestirad
-Male, Slavic, Chestislav
-Male, Slavic, Desilav
-Male, Slavic, Dmitrei
-Male, Slavic, Dobromil
-Male, Slavic, Dobroslav
-Male, Slavic, Dragomir
-Male, Slavic, Dragutin
-Male, Slavic, Drazhan
-Male, Slavic, Gostislav
-Male, Slavic, Kazimir
-Male, Slavic, Kyrilu
-Male, Slavic, Lyubomir
-Male, Slavic, Mechislav
-Male, Slavic, Milivo
-Male, Slavic, Milosh
-Male, Slavic, Mstislav
-Male, Slavic, Nikola
-Male, Slavic, Ninoslav
-Male, Slavic, Premislav
-Male, Slavic, Radomir
-Male, Slavic, Radovan
-Male, Slavic, Ratimir
-Male, Slavic, Rostislav
-Male, Slavic, Slavomir
-Male, Slavic, Stanislav
-Male, Slavic, Svetoslav
-Male, Slavic, Tomislav
-Male, Slavic, Vasili
-Male, Slavic, Velimir
-Male, Slavic, Vladimir
-Male, Slavic, Vladislav
-Male, Slavic, Vlastimir
-Male, Slavic, Volodimeru
-Male, Slavic, Vratislav
-Male, Slavic, Yarognev
-Male, Slavic, Yaromir
-Male, Slavic, Zbignev
-Male, Spanish, Alexandre
-Male, Spanish, Alfonso
-Male, Spanish, Alonso
-Male, Spanish, Anthon
-Male, Spanish, Arcos
-Male, Spanish, Arnaut
-Male, Spanish, Arturo
-Male, Spanish, Bartoleme
-Male, Spanish, Benito
-Male, Spanish, Bernat
-Male, Spanish, Blasco
-Male, Spanish, Carlos
-Male, Spanish, Damian
-Male, Spanish, Diego
-Male, Spanish, Domingo
-Male, Spanish, Enrique
-Male, Spanish, Escobar
-Male, Spanish, Ettor
-Male, Spanish, Fernando
-Male, Spanish, Franciso
-Male, Spanish, Gabriel
-Male, Spanish, Garcia
-Male, Spanish, Gaspar
-Male, Spanish, Gil
-Male, Spanish, Gomes
-Male, Spanish, Goncalo
-Male, Spanish, Gostantin
-Male, Spanish, Jayme
-Male, Spanish, Joan
-Male, Spanish, Jorge
-Male, Spanish, Jose
-Male, Spanish, Juan
-Male, Spanish, Machin
-Male, Spanish, Martin
-Male, Spanish, Mateu
-Male, Spanish, Miguel
-Male, Spanish, Nicolas
-Male, Spanish, Pascual
-Male, Spanish, Pedro
-Male, Spanish, Porico
-Male, Spanish, Ramiro
-Male, Spanish, Ramon
-Male, Spanish, Rodrigo
-Male, Spanish, Sabastian
-Male, Spanish, Salvador
-Male, Spanish, Simon
-Male, Spanish, Tomas
-Male, Spanish, Tristan
-Male, Spanish, Valeriano
-Male, Spanish, Ynigo
-Male, Tiefling, Abad
-Male, Tiefling, Ahrim
-Male, Tiefling, Akmen
-Male, Tiefling, Amnon
-Male, Tiefling, Andram
-Male, Tiefling, Astar
-Male, Tiefling, Balam
-Male, Tiefling, Barakas
-Male, Tiefling, Bathin
-Male, Tiefling, Caim
-Male, Tiefling, Chem
-Male, Tiefling, Cimer
-Male, Tiefling, Cressel
-Male, Tiefling, Damakos
-Male, Tiefling, Ekemon
-Male, Tiefling, Euron
-Male, Tiefling, Fenriz
-Male, Tiefling, Forcas
-Male, Tiefling, Habor
-Male, Tiefling, lados
-Male, Tiefling, Kairon
-Male, Tiefling, Leucis
-Male, Tiefling, Mamnen
-Male, Tiefling, Mantus
-Male, Tiefling, Marbas
-Male, Tiefling, Melech
-Male, Tiefling, Merihim
-Male, Tiefling, Modean
-Male, Tiefling, Mordai
-Male, Tiefling, Mormo
-Male, Tiefling, Morthos
-Male, Tiefling, Nicor
-Male, Tiefling, Nirgel
-Male, Tiefling, Oriax
-Male, Tiefling, Paymon
-Male, Tiefling, Pelaios
-Male, Tiefling, Purson
-Male, Tiefling, Qemuel
-Male, Tiefling, Raam
-Male, Tiefling, Rimmon
-Male, Tiefling, Sammal
-Male, Tiefling, Skamos
-Male, Tiefling, Tethren
-Male, Tiefling, Thamuz
-Male, Tiefling, Therai
-Male, Tiefling, Valafar
-Male, Tiefling, Vassago
-Male, Tiefling, Xappan
-Male, Tiefling, Zepar
-Male, Tiefling, Zephan
-Last, Elf, Aloro
-Last, Elf, Amakiir
-Last, Elf, Amastacia
-Last, Elf, Ariessus
-Last, Elf, Arnuanna
-Last, Elf, Berevan
-Last, Elf, Caerdonel
-Last, Elf, Caphaxath
-Last, Elf, Casilltenirra
-Last, Elf, Cithreth
-Last, Elf, Dalanthan
-Last, Elf, Eathalena
-Last, Elf, Erenaeth
-Last, Elf, Ethanasath
-Last, Elf, Fasharash
-Last, Elf, Firahel
-Last, Elf, Floshem
-Last, Elf, Galanodel
-Last, Elf, Goltorah
-Last, Elf, Hanali
-Last, Elf, Holimion
-Last, Elf, Horineth
-Last, Elf, lathrana
-Last, Elf, Ilphelkiir
-Last, Elf, Iranapha
-Last, Elf, Koehlanna
-Last, Elf, Lathalas
-Last, Elf, Liadon
-Last, Elf, Meliamne
-Last, Elf, Mellerelel
-Last, Elf, Mystralath
-Last, Elf, Naïlo
-Last, Elf, Netyoive
-Last, Elf, Ofandrus
-Last, Elf, Ostoroth
-Last, Elf, Othronus
-Last, Elf, Qualanthri
-Last, Elf, Raethran
-Last, Elf, Rothenel
-Last, Elf, Selevarun
-Last, Elf, Siannodel
-Last, Elf, Suithrasas
-Last, Elf, Sylvaranth
-Last, Elf, Teinithra
-Last, Elf, Tiltathana
-Last, Elf, Wasanthi
-Last, Elf, Withrethin
-Last, Elf, Xiloscient
-Last, Elf, Xistsrith
-Last, Elf, Yaeldrin
-Last, Halfling, Appleblossom
-Last, Halfling, Bigheart
-Last, Halfling, Brightmoon
-Last, Halfling, Brushgather
-Last, Halfling, Cherrycheeks
-Last, Halfling, Copperkettle
-Last, Halfling, Deephollow
-Last, Halfling, Elderberry
-Last, Halfling, Fastfoot
-Last, Halfling, Fatrabbit
-Last, Halfling, Glenfellow
-Last, Halfling, Goldfound
-Last, Halfling, Goodbarrel
-Last, Halfling, Goodearth
-Last, Halfling, Greenbottle
-Last, Halfling, Greenleaf
-Last, Halfling, High-hill
-Last, Halfling, Hilltopple
-Last, Halfling, Hogcollar
-Last, Halfling, Honeypot
-Last, Halfling, Jamjar
-Last, Halfling, Kettlewhistle
-Last, Halfling, Leagallow
-Last, Halfling, Littlefoot
-Last, Halfling, Nimblefingers
-Last, Halfling, Porridgepot
-Last, Halfling, Quickstep
-Last, Halfling, Reedfellow
-Last, Halfling, Shadowquick
-Last, Halfling, Silvereyes
-Last, Halfling, Smoothhands
-Last, Halfling, Stonebridge
-Last, Halfling, Stoutbridge
-Last, Halfling, Stoutman
-Last, Halfling, Strongbones
-Last, Halfling, Sunmeadow
-Last, Halfling, Swiftwhistle
-Last, Halfling, Tallfellow
-Last, Halfling, Tealeaf
-Last, Halfling, Tenpenny
-Last, Halfling, Thistletop
-Last, Halfling, Thorngage
-Last, Halfling, Tosscobble
-Last, Halfling, Underbough
-Last, Halfling, Underfoot
-Last, Halfling, Warmwater
-Last, Halfling, Whispermouse
-Last, Halfling, Wildcloak
-Last, Halfling, Wildheart
-Last, Halfling, Wiseacre
-Last, Tiefling, Ambition
-Last, Tiefling, Art
-Last, Tiefling, Carrion
-Last, Tiefling, Chant
-Last, Tiefling, Creed
-Last, Tiefling, Death
-Last, Tiefling, Debauchery
-Last, Tiefling, Despair
-Last, Tiefling, Doom
-Last, Tiefling, Doubt
-Last, Tiefling, Dread
-Last, Tiefling, Ecstasy
-Last, Tiefling, Ennui
-Last, Tiefling, Entropy
-Last, Tiefling, Excellence
-Last, Tiefling, Fear
-Last, Tiefling, Glory
-Last, Tiefling, Gluttony
-Last, Tiefling, Grief
-Last, Tiefling, Hate
-Last, Tiefling, Hope
-Last, Tiefling, Horror
-Last, Tiefling, Ideal
-Last, Tiefling, Ignominy
-Last, Tiefling, Laughter
-Last, Tiefling, Love
-Last, Tiefling, Lust
-Last, Tiefling, Mayhem
-Last, Tiefling, Mockery
-Last, Tiefling, Murder
-Last, Tiefling, Muse
-Last, Tiefling, Music
-Last, Tiefling, Mystery
-Last, Tiefling, Nowhere
-Last, Tiefling, Open
-Last, Tiefling, Pain
-Last, Tiefling, Passion
-Last, Tiefling, Poetry
-Last, Tiefling, Quest
-Last, Tiefling, Random
-Last, Tiefling, Reverence
-Last, Tiefling, Revulsion
-Last, Tiefling, Sorrow
-Last, Tiefling, Temerity
-Last, Tiefling, Torment
-Last, Tiefling, Tragedy
-Last, Tiefling, Vice
-Last, Tiefling, Virtue
-Last, Tiefling, Weary
-Last, Tiefling, Wit
-Last, Dragonkin, Akambherylliax
-Last, Dragonkin, Argenthrixus
-Last, Dragonkin, Baharoosh
-Last, Dragonkin, Beryntolthropal
-Last, Dragonkin, Bhenkumbyrznaax
-Last, Dragonkin, Caavylteradyn
-Last, Dragonkin, Chumbyxirinnish
-Last, Dragonkin, Clethtinthiallor
-Last, Dragonkin, Daardendrian
-Last, Dragonkin, Delmirev
-Last, Dragonkin, Dhyrktelonis
-Last, Dragonkin, Ebynichtomonis
-Last, Dragonkin, Esstyrlynn
-Last, Dragonkin, Fharngnarthnost
-Last, Dragonkin, Ghaallixirn
-Last, Dragonkin, Grrrmmballhyst
-Last, Dragonkin, Gygazzylyshrift
-Last, Dragonkin, Hashphronyxadyn
-Last, Dragonkin, Hshhsstoroth
-Last, Dragonkin, lmbixtellrhyst
-Last, Dragonkin, Jerynomonis
-Last, Dragonkin, Jharthraxyn
-Last, Dragonkin, Kerrhylon
-Last, Dragonkin, Kimbatuul
-Last, Dragonkin, Lhamboldennish
-Last, Dragonkin, Linxakasendalor
-Last, Dragonkin, Mohradyllion
-Last, Dragonkin, Mystan
-Last, Dragonkin, NemmonisNorixius
-Last, Dragonkin, Ophinshtalajiir
-Last, Dragonkin, Orexijandilin
-Last, Dragonkin, Pfaphnyrennish
-Last, Dragonkin, Phrandrandon
-Last, Dragonkin, Pyraxtallinost
-Last, Dragonkin, Qyxpahrgh
-Last, Dragonkin, Raghthroknaar
-Last, Dragonkin, Shestendeliath
-Last, Dragonkin, Skaarzborroosh
-Last, Dragonkin, Sumnarghthrysh
-Last, Dragonkin, Tiammanthyllish
-Last, Dragonkin, Turnuroth
-Last, Dragonkin, Umbyrphrael
-Last, Dragonkin, Vangdondalor
-Last, Dragonkin, Verthisathurgiesh
-Last, Dragonkin, Wivvyrholdalphiax
-Last, Dragonkin, Wystongjiir
-Last, Dragonkin, Xephyrbahnor
-Last, Dragonkin, Yarjerit
-Last, Dragonkin, Zzzxaaxthroth
-Last, Dwarf, Aranore
-Last, Dwarf, Balderk
-Last, Dwarf, Battlehammer
-Last, Dwarf, Bigtoe
-Last, Dwarf, Bloodkith
-Last, Dwarf, Bofdann
-Last, Dwarf, Brawnanvil
-Last, Dwarf, Brazzik
-Last, Dwarf, Broodfist
-Last, Dwarf, Burrowfound
-Last, Dwarf, Caebrek
-Last, Dwarf, Daerdahk
-Last, Dwarf, Dankil
-Last, Dwarf, Daraln
-Last, Dwarf, Deepdelver
-Last, Dwarf, Durthane
-Last, Dwarf, Eversharp
-Last, Dwarf, Fallack
-Last, Dwarf, Fireforge
-Last, Dwarf, Foamtankard
-Last, Dwarf, Frostbeard
-Last, Dwarf, Glanhig
-Last, Dwarf, Goblinbane
-Last, Dwarf, Goldfinder
-Last, Dwarf, Gorunn
-Last, Dwarf, Graybeard
-Last, Dwarf, Hammerstone
-Last, Dwarf, Helcral
-Last, Dwarf, Holderhek
-Last, Dwarf, Ironfist
-Last, Dwarf, Loderr
-Last, Dwarf, Lutgehr
-Last, Dwarf, Morigak
-Last, Dwarf, Orcfoe
-Last, Dwarf, Rakankrak
-Last, Dwarf, Ruby-Eye
-Last, Dwarf, Rumnaheim
-Last, Dwarf, Silveraxe
-Last, Dwarf, Silverstone
-Last, Dwarf, Steelfist
-Last, Dwarf, Stoutale
-Last, Dwarf, Strakeln
-Last, Dwarf, Strongheart
-Last, Dwarf, Thrahak
-Last, Dwarf, Torevir
-Last, Dwarf, Torunn
-Last, Dwarf, Trollbleeder
-Last, Dwarf, Trueanvil
-Last, Dwarf, Trueblood
-Last, Dwarf, Ungart
-Last, Gnome, Albaratie
-Last, Gnome, Bafflestone
-Last, Gnome, Beren
-Last, Gnome, Boondiggles
-Last, Gnome, Cobblelob
-Last, Gnome, Daergel
-Last, Gnome, Dunben
-Last, Gnome, Fabblestabble
-Last, Gnome, Fapplestamp
-Last, Gnome, Fiddlefen
-Last, Gnome, Folkor
-Last, Gnome, Garrick
-Last, Gnome, Gimlen
-Last, Gnome, Glittergem
-Last, Gnome, Gobblefirn
-Last, Gnome, Gummen
-Last, Gnome, Horcusporcus
-Last, Gnome, Humplebumple
-Last, Gnome, Ironhide
-Last, Gnome, Leffery
-Last, Gnome, Lingenhall
-Last, Gnome, Loofollue
-Last, Gnome, Maekkelferce
-Last, Gnome, Miggledy
-Last, Gnome, Munggen
-Last, Gnome, Murnig
-Last, Gnome, Musgraben
-Last, Gnome, Nackle
-Last, Gnome, Ningel
-Last, Gnome, Nopenstallen
-Last, Gnome, Nucklestamp
-Last, Gnome, Offund
-Last, Gnome, Oomtrowl
-Last, Gnome, Pilwicken
-Last, Gnome, Pingun
-Last, Gnome, Quillsharpener
-Last, Gnome, Raulnor
-Last, Gnome, Reese
-Last, Gnome, Rofferton
-Last, Gnome, Scheppen
-Last, Gnome, Shadowcloak
-Last, Gnome, Silverthread
-Last, Gnome, Sympony
-Last, Gnome, Tarkelby
-Last, Gnome, Timbers
-Last, Gnome, Turen
-Last, Gnome, Umbodoben
-Last, Gnome, Waggletop
-Last, Gnome, Welber
-Last, Gnome, Wildwander
-Child, Elf, Ael
-Child, Elf, Ang
-Child, Elf, Ara
-Child, Elf, Ari
-Child, Elf, Arn
-Child, Elf, Aym
-Child, Elf, Broe
-Child, Elf, Bryn
-Child, Elf, Cael
-Child, Elf, Cy
-Child, Elf, Dae
-Child, Elf, Del
-Child, Elf, Eli
-Child, Elf, Eryn
-Child, Elf, Faen
-Child, Elf, Fera
-Child, Elf, Gael
-Child, Elf, Gar
-Child, Elf, Innil
-Child, Elf, Jar
-Child, Elf, Kan
-Child, Elf, Koeth
-Child, Elf, Lael
-Child, Elf, Lue
-Child, Elf, Mai
-Child, Elf, Mara
-Child, Elf, Mella
-Child, Elf, Mya
-Child, Elf, Naeris
-Child, Elf, Naill
-Child, Elf, Nim
-Child, Elf, Phann
-Child, Elf, Py
-Child, Elf, Rael
-Child, Elf, Raer
-Child, Elf, Ren
-Child, Elf, Rinn
-Child, Elf, Rua
-Child, Elf, Sael
-Child, Elf, Sai
-Child, Elf, Sumi
-Child, Elf, Syllin
-Child, Elf, Ta
-Child, Elf, Thia
-Child, Elf, Tia
-Child, Elf, Traki
-Child, Elf, Vall
-Child, Elf, Von
-Child, Elf, wil
-Child, Elf, Za
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Aaliyah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Aida");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Akilah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Alia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Amina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Atefeh");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Chaima");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Dalia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Ehsan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Elham");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Farah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Fatemah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Gamila");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Iesha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Inbar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Kamaria");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Khadija");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Layla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Lupe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Nabila");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Nadine");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Naima");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Najila");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Najwa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Nakia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Nashwa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Nawra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Nuha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Nura");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Oma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Qadira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Qamar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Qistina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Rahima");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Rihanna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Saadia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Sabah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Sada");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Saffron");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Sahar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Salma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Shatha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Tahira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Takisha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Thana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Yadira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Zahra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Zaida");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Zaina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Arabic", "Zeinab");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Aife");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Aina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Alane");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Ardena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Arienh");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Beatha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Birgit");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Briann");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Caomh");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Cara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Cinnia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Cordelia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Deheune");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Divone");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Donia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Doreena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Elsha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Enid");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Ethne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Evelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Fianna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Genevieve");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Gilda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Gitta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Grania");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Gwyndolin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Idelisa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Isolde");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Keelin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Kennocha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Lavena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Lesley");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Linnette");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Lyonesse");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Mabina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Marvina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Mavis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Mirna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Morgan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Muriel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Nareena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Oriana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Regan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Ronat");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Rowena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Selma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Ula");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Venetia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Wynne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Celtic", "Yseult");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ai");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Anming");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Baozhai");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Bei");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Caixia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Changchang");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Chen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Chou");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Chunhua");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Daianna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Daiyu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Die");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ehuang");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Fenfang");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ge");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Hong");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Huan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Huifang");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Jia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Jiao");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Jiaying");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Jingfei");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Jinjing");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Lan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Li");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Lihua");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Lin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ling");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Liu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Meili");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ning");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Qi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Qiao");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Rong");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Shu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Shuang");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Song");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ting");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Wen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Xia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Xiaodan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Xiaoli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Xingjuan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Xue");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Yan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Ying");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Yuan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Yue");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Chinese", "Yun");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Akra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Aasathra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Antrara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Arava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Biri");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Blendaeth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Burana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Chassath");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Daar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Dentratha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Doudra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Driindar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Eggren");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Farideh");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Findex");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Furrele");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Gesrethe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Gikass");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Harann");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Havilar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Hethress");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Hillanot");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Jaxi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Jezean");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Jheri");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Kadana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Kava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Korinn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Megren");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Mijira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Mishann");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Nala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Nuthra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Perra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Pogranix");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Pyxrin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Quespa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Raiann");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Rezena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Ruloth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Saphara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Savaran");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Sora");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Surina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Synthrin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Tatyan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Thava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Uadjit");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Vezera");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dragonkin", "Zykroff");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Anbera");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Artin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Audhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Balifra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Barbena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Bardryn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Bolhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Dagnal");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Dariff");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Delre");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Diesa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Eldeth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Eridred");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Falkrunn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Fallthra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Finellen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Gillydd");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Gunnloda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Gurdis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Helgret");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Helja");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Hlin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Ilde");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Jarana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Kathra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Kilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Kristryd");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Liftrasa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Marastyr");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Mardred");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Morana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Nalaed");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Nora");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Nurkara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Oriff");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Ovina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Riswynn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Sannl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Therlin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Thodris");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Torbera");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Tordrid");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Torgga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Urshar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Valida");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Vistra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Vonana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Werydd");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Whurdred");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Dwarf", "Yurgunn");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "A"’at);
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Ahset");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Amunet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Aneksi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Atet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Baketamon");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Betrest");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Bunefer");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Dedyet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Hatshepsut");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Hentie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Herit");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Hetepheres");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Intakaes");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Ipwet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Itet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Joba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Kasmut");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Kemanub");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Khemut");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Kiya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Maia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Menhet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Merit");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Meritamen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Merneith");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Merseger");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Muyet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Nebet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Nebetah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Nedjemmut");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Nefertiti");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Neferu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Neithotep");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Nit");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Nofret");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Nubemiunu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Peseshet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Pypuy");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Qalhata");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Rai");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Redji");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Sadeh");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Sadek");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Sitamun");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Sitre");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Takhat");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Tarset");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Taweret");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Egyptian", "Werenro");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Adrie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Ahinar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Althaea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Anastrianna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Andraste");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Antinua");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Arara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Baelitae");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Bethrynna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Birel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Caelynn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Chaedi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Claira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Dara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Drusilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Elama");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Enna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Faral");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Felosial");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Hatae");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "lelenia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Ilanis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Irann");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Jarsali");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Jelenneth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Keyleth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Leshanna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Lia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Maiathah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Malquis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Meriele");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Mialee");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Myathethil");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Naivara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Quelenna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Quillathe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Ridaro");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Sariel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Shanairla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Shava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Silaqui");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Sumnes");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Theirastra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Thiala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Tiaathque");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Traulam");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Vadania");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Valanthe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Valna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Elf", "Xanaphia");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Adelaide");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Agatha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Agnes");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Alice");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Aline");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Anne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Avelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Avice");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Beatrice");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Cecily");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Egelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Eleanor");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Elizabeth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Ella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Eloise");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Elysande");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Emeny");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Emma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Emmeline");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Ermina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Eva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Galiena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Geva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Giselle");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Griselda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Hadwisa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Helen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Herleva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Hugolina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Ida");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Isabella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Jacoba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Jane");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Joan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Juliana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Katherine");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Margery");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Mary");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Matilda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Maynild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Millicent");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Oriel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Rohesia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Rosalind");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Rosamund");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Sarah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Susannah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Sybil");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Williamina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "English", "Yvonne");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Aalis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Agatha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Agnez");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Alberea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Alips");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Amée");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Amelot");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Anne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Avelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Blancha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Cateline");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Cecilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Claricia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Collette");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Denisete");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Dorian");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Edelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Emelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Emmelot");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Ermentrudis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Gibelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Gila");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Gillette");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Guiburgis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Guillemette");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Guoite");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Hecelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Heloysis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Helyoudis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Hodeardis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Isabellis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Jaquette");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Jehan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Johanna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Juliote");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Katerine");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Luciana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Margot");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Marguerite");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Maria");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Marie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Melisende");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Odelina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Perrette");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Petronilla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Sedilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Stephana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Sybilla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Ysabeau");
+INSERT INTO names (category, culture, name) VALUES ("Female", "French", "Ysabel");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Adelhayt");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Affra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Agatha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Allet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Angnes");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Anna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Apell");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Applonia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Barbara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Brida");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Brigita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Cecilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Clara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Cristina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Dorothea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Duretta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Ella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Els");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Elsbeth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Engel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Enlein");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Enndlin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Eva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Fela");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Fronicka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Genefe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Geras");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Gerhauss");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Gertrudt");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Guttel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Helena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Irmel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Jonata");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Katerina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Kuen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Kungund");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Lucia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Madalena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Magdalen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Margret");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Marlein");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Martha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Otilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Ottilg");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Peternella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Reusin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Sibilla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Ursel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Vrsula");
+INSERT INTO names (category, culture, name) VALUES ("Female", "German", "Walpurg");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Abalaba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Bimpnottin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Breena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Buvvie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Callybon");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Caramip");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Carlin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Cumpen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Dalaba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Donella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Duvamil");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Ella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Ellyjoybell");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Ellywick");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Enidda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Lilli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Loopmottin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Lorilla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Luthra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Mardnab");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Meena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Menny");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Mumpena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Nissa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Numba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Nyx");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Oda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Oppah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Orla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Panana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Pyntle");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Quilla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Ranala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Reddlepop");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Roywyn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Salanop");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Shamil");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Siffress");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Symma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Tana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Tenena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Tervaround");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Tippletoe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Ulla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Unvera");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Veloptima");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Virra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Waywocket");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Yebe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Gnome", "Zanna");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Acantha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Aella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Alektos");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Alkippe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Andromeda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Antigone");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Ariadne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Astraea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Chloros");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Chryseos");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Daphne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Despoina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Dione");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Eileithyia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Elektra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Euadne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Eudora");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Eunomia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Hekabe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Helene");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Hermoione");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Hippolyte");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "lanthe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "lokaste");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "lole");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Iphigenia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Ismene");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kalliope");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kallisto");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kalypso");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Karme");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kassandra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kassiopeia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kirke");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kleio");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Klotho");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Klytië");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Kynthia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Leto");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Megaera");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Melaina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Melpomene");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Nausikaa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Nemesis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Niobe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Ourania");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Phaenna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Polymnia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Semele");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Greek", "Theia");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Arha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Baggi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Bendoo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Bilga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Brakka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Creega");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Drenna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Ekk");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Emen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Engong");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Fistula");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Gaaki");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Gorga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Grai");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Greeba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Grigi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Gynk");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Hrathy");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Huru");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Ilga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Kabbarg");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Kansif");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Lagazi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Lezre");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Murgen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Murook");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Myev");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Nagrette");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Neega");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Nella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Nogu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Oolah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Ootah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Ovak");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Ownka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Puyet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Reeza");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Shautha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Silgre");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Sutha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Tagga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Tawar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Tomph");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Ubada");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Vanchu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Vola");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Volen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Vorka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Yevelda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Half-Orc", "Zagga");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Alain");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Andry");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Anne");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Bella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Blossom");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Bree");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Callie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Chenna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Cora");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Dee");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Dell");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Eida");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Eran");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Euphemia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Georgina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Gynnie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Harriet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Jasmine");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Jillian");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Jo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Kithri");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Lavinia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Lidda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Maegan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Marigold");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Merla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Myria");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Nedda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Nikki");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Nora");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Olivia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Paela");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Pearl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Pennie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Philomena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Portia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Robbie");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Rose");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Saral");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Seraphina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Shaena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Stacee");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Tawna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Thea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Trym");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Tyna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Vani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Verna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Wella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Halfing", "Willow");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Abha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Aishwarya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Amala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Ananda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Ankita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Archana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Avani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Chandana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Chandrakanta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Chetan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Darshana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Devi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Dipti");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Esha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Gauro");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Gita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Indira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Indu");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Jaya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Kala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Kalpana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Kamala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Kanta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Kashi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Kishori");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Lalita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Lina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Madhur");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Manju");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Meera");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Mohana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Mukta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Nisha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Nitya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Padma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Pratima");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Priya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Rani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Sarala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Shakti");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Shanta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Shobha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Sima");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Sonal");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Sumana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Sunita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Tara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Valli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Vijaya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Indian", "Vimala");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Aika");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Akemi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Akiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Amaya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Asami");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Ayumi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Bunko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Chieko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Chika");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Chiyo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Cho");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Eiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Emiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Eri");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Etsuko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Gina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Hana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Haruki");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Hideko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Hikari");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Hiroko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Hisoka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Hishi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Hotaru");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Izumi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Kameyo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Kasumi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Kimiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Kotone");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Kyoko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Maiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Masako");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Mi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Minori");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Mizuki");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Naoki");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Natsuko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Noriko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Rei");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Ren");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Saki");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Shigeko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Shinju");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Sumiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Toshiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Tsukiko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Ume");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Usagi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Yasuko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Japanese", "Yuriko");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Ahuiliztli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Atl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Centehua");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Chalchiuitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Chipahua");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Cihuaton");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Citlali");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Citlalmina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Coszcatl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Cozamalotl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Cuicatl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Eleuia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Eloxochitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Eztli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Ichtaca");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Icnoyotl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "lhuicatl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Ilhuitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Itotia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "luitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Ixcatzin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Izel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Malinalxochitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Mecatl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Meztli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Miyaoaxochitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Mizquixaual");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Moyolehuani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Nahuatl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Necahual");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Nenetl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Nochtli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Noxochicoztli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Ohtli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Papan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Patli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Quetzalxochitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Sacnite");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Teicui");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Tepin");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Teuicui");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Teyacapan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Tlaco");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Tlacoehua");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Tlacotl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Tlalli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Tlanextli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Xihuitl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Xiuhcoatl");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Mesoamerican", "Xiuhtonal");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Abebi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Abena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Abimbola");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Akoko");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Akachi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Alaba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Anuli");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ayo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Bolanle");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Bosede");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Chiamaka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Chidi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Chidimma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Chinyere");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Chioma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Dada");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ebele");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Efemena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ejiro");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ekundayo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Enitan");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Funanya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ifunanya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ige");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ime");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Kunto");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Lesedi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Lumusi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Mojisola");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Monifa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Nakato");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ndidi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ngoz");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Nkiruka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Nneka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ogechi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Olamide");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Oluchi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Omolara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Onyeka");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Simisola");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Temitope");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Thema");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Titlayo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Udo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Uduak");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Ufuoma");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Yaa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Yejide");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Niger-Congo", "Yewande");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Alfhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Arnbjorg");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Ase");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Aslog");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Astrid");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Auda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Audhid");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Bergljot");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Birghild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Bodil");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Brenna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Brynhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Dagmar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Eerika");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Eira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Gudrun");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Gunborg");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Gunhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Gunvor");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Helga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Hertha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Hilde");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Hillevi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Ingrid");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "lona");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Jorunn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Kari");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Kenna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Magnhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Nanna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Olga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Ragna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Ragnhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Ranveig");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Runa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Saga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Sigfrid");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Signe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Sigrid");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Sigrunn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Solveg");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Svanhild");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Thora");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Torborg");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Torunn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Tove");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Unn");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Vigdis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Ylva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Norse", "Yngvild");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Ahulani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Airini");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Alani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Aluala");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Anahera");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Anuhea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Aolani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Elenoa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Emele");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Fetia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Fiva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Halona");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Hi'ilei");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Hina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Hinatea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Huali");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Ini");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Inina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Tolani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Isa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Ka'ana'ana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Ka'ena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Kaamia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Kahula");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Kailani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Kamaile");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Kamakani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Kamea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Latai");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Liona");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Lokelani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Marva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Mehana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Millawa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Moana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Ngana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Nohea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Pelika");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Sanoe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Satina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Tahia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Tasi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Tiaho");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Tihani");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Toroa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Ulanni");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Uluwehi");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Vaina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Waiola");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Polynesian", "Waitara");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Aelia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Aemilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Agrippina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Alba");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Antonia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Aquila");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Augusta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Aurelia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Balbina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Blandina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Caelia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Camilla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Casia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Claudia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Cloelia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Domitia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Drusa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Fabia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Fabricia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Fausta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Flavia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Floriana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Fulvia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Germana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Glaucia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Gratiana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Hadriana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Hermina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Horatia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Hortensia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "lovita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "lulia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Laelia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Laurentia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Livia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Longina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Lucilla");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Lucretia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Marcella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Marcia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Maxima");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Nona");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Octavia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Paulina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Petronia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Porcia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Tacita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Tullia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Verginia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Roman", "Vita");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Agripina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Anastasiya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Bogdana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Boleslava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Bozhena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Danica");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Darya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Desislava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Dragoslava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Dunja");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Efrosinia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Ekaterina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Elena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Faina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Galina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Irina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Iskra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Jasna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Katarina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Katya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Kresimira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Lyudmila");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Magda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Mariya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Militsa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Miloslava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Mira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Miroslava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Mokosh");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Morana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Natasha");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Nika");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Olga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Rada");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Radoslava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Raisa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Slavitsa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Sofiya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Stanislava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Svetlana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Tatyana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Tomislava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Veronika");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Vesna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Vladimira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Yaroslava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Yelena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Zaria");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Zarya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Slavic", "Zoria");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Abella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Adalina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Adora");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Adriana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Ana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Antonia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Basilia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Beatriz");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Bonita");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Camila");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Cande");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Carmen");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Catlina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Dolores");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Dominga");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Dorotea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Elena");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Elicia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Esmerelda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Felipina");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Francisca");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Gabriela");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Imelda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Ines");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Isabel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Juana");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Leocadia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Leonor");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Leta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Lucinda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Maresol");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Maria");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Maricela");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Matilde");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Melania");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Monica");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Neva");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Nilda");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Petrona");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Rafaela");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Ramira");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Rosario");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Sofia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Suelo");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Teresa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Tomasa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Valentia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Veronica");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Ynes");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Spanish", "Ysabel");
+
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Akta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Anakis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Armara");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Astaro");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Aym");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Azza");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Beleth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Bryseis");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Bune");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Criella");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Damaia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Decarabia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Ea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Gadreel");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Gomory");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Hecat");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Ishte");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Jezebeth");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Kali");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Kallista");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Kasdeya");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Lerissa");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Lilith");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Makaria");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Manea");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Markosian");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Mastema");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Naamah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Nemeia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Nija");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Orianna");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Osah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Phelaia");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Prosperine");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Purah");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Pyra");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Rieta");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Ronobe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Ronwe");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Seddit");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Seere");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Sekhmet");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Semyaza");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Shava");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Shax");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Sorath");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Uzza");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Vapula");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Vepar");
+INSERT INTO names (category, culture, name) VALUES ("Female", "Tiefling", "Verin");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Abbad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Abdul");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Achmed");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Akeem");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Alif");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Amir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Asim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Bashir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Bassam");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Fahim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Farid");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Farouk");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Fayez");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Fayyaad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Fazil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Hakim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Halil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Hamid");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Hazim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Heydar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Hussein");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Jabari");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Jafar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Jahid");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Jamal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Kalim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Karim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Kazim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Khadi");	
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Khalid");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Mahmud");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Mansour");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Musharraf");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Mustafa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Nadir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Nazim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Omar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Qadir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Qusay");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Rafiq");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Rakim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Rashad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Rauf");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Saladin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Sami");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Samir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Talib");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Tamir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Tariq");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Arabic", "Yazid");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Airell");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Airic");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Alan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Anghus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Aodh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Bardon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Bearacb");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Bevyn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Boden");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Bran");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Brasil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Bredon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Brian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Bricriu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Bryant");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Cadman");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Caradoc");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Cedric");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Conalt");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Conchobar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Condon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Darcy");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Devin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Dillion");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Donaghy");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Donall");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Duer");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Eghan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Ewyn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Ferghus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Galvyn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Gildas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Guy");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Harvey");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Iden");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Irven");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Karney");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Kayne");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Kelvyn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Kunsgnos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Leigh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Maccus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Moryn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Neale");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Owyn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Pryderi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Reaghan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Taliesin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Tiernay");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Celtic", "Turi");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Bingwen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Bo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Bolin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Chang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Chao");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Chen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Cheng");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Da");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Dingxiang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Fang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Feng");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Fu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Gang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Guang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Hai");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Heng");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Hong");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Huan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Huang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Huiliang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Huizhong");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Jian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Jiayi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Junjie");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Kang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Lei");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Liang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Ling");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Liwei");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Meilin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Niu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Peizhi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Peng");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Ping");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Qiang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Qiu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Quan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Renshu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Rong");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Ru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Shan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Shen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Tengfei");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Wei");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Xiaobo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Xiaoli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Xin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Yang");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Ying");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Chinese", "Zhong");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Adrex");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Arjhan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Azzakh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Balasar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Baradad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Bharash");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Bidreked");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Dadalan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Dazzazn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Direcris");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Donaar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Fax");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Gargax");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Ghesh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Gorbundus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Greethen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Heskan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Hirrathak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Ildrex");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Kaladan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Kerkad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Kiirith");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Kriv");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Maagog");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Medrash");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Mehen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Mozikth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Mreksh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Mugrunden");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Nadarr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Nithther");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Norkruuth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Nykkan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Pandjed");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Patrin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Pijjirik");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Quarethon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Rathkan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Rhogar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Rivaan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Sethrekar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Shamash");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Shedinn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Srorthen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Tarhun");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Torinn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Trynnicus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Valorean");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Vrondiss");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dragonkin", "Zedaar");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Adrik");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Alberich");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Baern");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Barendd");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Beloril");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Brottor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Dain");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Dalgal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Darrak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Delg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Duergath");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Dworic");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Eberk");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Einkil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Elaim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Erias");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Fallond");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Fargrim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Gardain");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Gilthur");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Gimgen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Gimurt");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Harbek");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Kildrak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Kilvar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Morgran");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Morkral");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Nalral");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Nordak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Nuraval");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Oloric");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Olunt");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Orsik");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Oskar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Rangrim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Reirak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Rurik");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Taklinn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Thoradin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Thorin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Thradal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Tordek");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Traubon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Travok");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Ulfgar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Uraim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Veit");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Vonbin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Vondal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Dwarf", "Whurbin");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Ahmose");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Akhom");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Amasis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Amenemhet");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Anen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Banefre");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Bek");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Djedefre");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Djoser");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Hekaib");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Henenu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Horemheb");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Horwedja");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Huya");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Ibebi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Idu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Imhotep");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Ineni");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Ipuki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Irsu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Kagemni");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Kawab");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Kenamon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Kewap");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Khaemwaset");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Khafra");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Khusebek");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Masaharta");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Meketre");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Menkhaf");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Merenre");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Metjen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Nebamun");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Nebetka");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Nehi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Nekure");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Nessumontu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Pakhom");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Pawah");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Pawero");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Ramose");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Rudjek");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Sabaf");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Sebek");-khu
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Sebni");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Senusret");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Shabaka");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Somintu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Thaneni");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Egyptian", "Thethi");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Adran");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Aelar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Aerdeth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Ahvain");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Aramil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Arannis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Aust");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Azaki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Beiro");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Berrian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Caeldrim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Carric");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Dayereth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Dreali");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Efferil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Eiravel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Enialis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Erdan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Erevan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Fivin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Galinndan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Gennal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Hadarai");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Halimath");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Heian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Himo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Immeral");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Ivellios");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Korfel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Lamlis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Laucian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Lucan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Mindartis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Naal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Nutae");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Paelias");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Peren");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Quarion");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Riardon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Rolen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Soveliss");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Suhnae");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Thamior");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Tharivol");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Theren");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Theriatis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Thervan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Uthemar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Vanuath");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Elf", "Varis");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Adam");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Adelard");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Aldous");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Anselm");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Arnold");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Bernard");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Bertram");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Charles");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Clerebold");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Conrad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Diggory");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Drogo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Everard");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Frederick");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Geoffrey");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Gerald");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Gilbert");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Godfrey");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Gunter");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Guy");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Henry");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Heward");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Hubert");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Hugh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Jocelyn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "John");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Lance");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Manfred");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Miles");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Nicholas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Norman");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Odo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Percival");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Peter");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Ralf");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Randal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Raymond");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Reynard");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Richard");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Robert");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Roger");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Roland");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Rolf");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Simon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Theobald");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Theodoric");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Thomas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Timm");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "William");
+INSERT INTO names (category, culture, name) VALUES ("Male", "English", "Wymar");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Ambroys");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Ame");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Andri");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Andriet");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Anthoine");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Bernard");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Charles");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Charlot");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Colin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Denis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Durant");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Edouart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Eremon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Ernault");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Ethor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Felix");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Floquart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Galleren");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Gaultier");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Gilles");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Guy");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Henry");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Hugo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Imbert");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Jacques");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Jacquot");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Jean");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Jehannin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Louis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Louys");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Loys");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Martin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Michel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Mille");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Morelet");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Nicolas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Nicolle");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Oudart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Perrin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Phillippe");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Pierre");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Regnault");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Richart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Robert");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Robinet");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Sauvage");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Simon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Talbot");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Tanguy");
+INSERT INTO names (category, culture, name) VALUES ("Male", "French", "Vincent");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Albrecht");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Allexander");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Baltasar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Benedick");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Berhart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Caspar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Clas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Cristin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Cristoff");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Dieterich");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Engelhart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Erhart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Felix");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Frantz");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Fritz");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Gerhart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Gotleib");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Hans");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Hartmann");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Heintz");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Herman");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Jacob");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Jeremias");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Jorg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Karll");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Kilian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Linhart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Lorentz");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Ludwig");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Marx");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Melchor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Mertin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Michel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Moritz");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Osswald");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Ott");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Peter");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Rudolff");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Ruprecht");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Sewastian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Sigmund");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Steffan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Symon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Thoman");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Ulrich");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Vallentin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Wendel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Wilhelm");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Wolff");
+INSERT INTO names (category, culture, name) VALUES ("Male", "German", "Wolfgan");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Alston");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Alvyn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Anverth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Arumawann");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Bilbron");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Boddynock");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Brocc");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Burgell");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Cockaby");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Crampernap");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Dabbledob");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Delebean");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Dimble");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Eberdeb");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Eldon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Erky");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Fablen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Fibblestib");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Fonkin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Frouse");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Frug");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Gerbo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Gimble");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Glim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Igden");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Jabble");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Jebeddo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Kellen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Kipper");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Namfoodle");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Oppleby");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Orryn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Paggen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Pallabar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Pog");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Ribbles");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Rimple");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Roondar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Sapply");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Seebo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Senteq");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Sindri");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Umpen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Warryn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Wiggens");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Wobbles");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Wrenn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Zaffrab");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Gnome", "Zook");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Adonis");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Adrastos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Aeson");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Aias");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Aineias");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Aiolos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Alekto");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Alkeides");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Argos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Brontes");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Damazo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Dardanos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Deimos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Diomedes");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Endymion");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Epimetheus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Erebos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Euandros");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Ganymedes");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Glaukos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Hektor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Heros");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Hippolytos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "lacchus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "lason");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Kadmos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Kastor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Kephalos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Kepheus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Koios");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Kreios");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Laios");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Leandros");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Linos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Lykos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Melanthios");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Menelaus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Mentor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Neoptolemus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Okeanos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Orestes");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Pallas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Patroklos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Philandros");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Phoibos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Phrixus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Priamos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Pyrrhos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Xanthos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Greek", "Zephyros");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Argran");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Braak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Brug");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Cagak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Dench");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Dorn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Dren");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Druuk");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Feng");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Gell");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Gnarsh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Grumbar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Gubrash");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Hagren");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Henk");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Hogar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Holg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Imsh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Karash");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Karg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Keth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Korag");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Krusk");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Lubash");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Megged");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Mhurren");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Mord");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Morg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Nil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Nybarg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Odor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Ohr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Rendar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Resh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Ront");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Rrath");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Sark");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Scrag");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Sheggen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Shump");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Tanglar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Tarak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Thar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Thokk");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Trag");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Ugarth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Varg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Vilberg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Yurk");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Half-Orc", "Zed");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Alton");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Ander");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Bernie");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Bobbin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Cade");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Callus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Corrin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Dannad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Danniel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Eddie");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Egart");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Eldon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Errich");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Fildo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Finnan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Franklin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Garret");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Garth");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Gilbert");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Gob");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Harol");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Igor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Jasper");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Keith");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Kevin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Lazam");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Lerry");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Lindal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Lyle");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Merric");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Mican");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Milo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Morrin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Nebin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Nevil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Osborn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Ostran");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Oswalt");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Perrin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Poppy");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Reed");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Roscoe");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Sam");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Shardon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Tye");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Ulmo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Wellby");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Wendel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Wenner");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Halfling", "Wes");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Abhay");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Ahsan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Ajay");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Ajit");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Akhil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Amar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Amit");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Ananta");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Aseem");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Ashok");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Bahadur");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Basu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Chand");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Chandra");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Damodar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Darhsan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Devdan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Dinesh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Dipak");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Gopal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Govind");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Harendra");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Harsha");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Ila");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Isha");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Johar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Kalyan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Kiran");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Kumar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Lakshmana");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Mahavir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Narayan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Naveen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Nirav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Prabhakar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Prasanna");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Raghu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Rajanikant");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Rakesh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Ranjeet");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Rishi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Sanjay");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Sekar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Shandar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Sumantra");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Vijay");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Vikram");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Vimal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Vishal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Indian", "Yash");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Akio");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Atsushi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Daichi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Daiki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Daisuke");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Eiji");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Fumio");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hajime");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Haru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hideaki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hideo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hikaru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hiro");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hiroki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hisao");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Hitoshi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Isamu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Isao");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Jun");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Katashi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Katsu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Kei");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Ken");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Kenshin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Kenta");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Kioshi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Makoto");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Mamoru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Masato");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Masumi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Noboru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Norio");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Osamu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Ryota");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Sadao");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Satoshi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Shigeo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Shin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Sora");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Tadao");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Takehiko");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Takeo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Takeshi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Takumi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Tamotsu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Tatsuo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Toru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Toshio");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Yasuo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Japanese", "Yukio");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Achcauhtli");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Amoxtli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Chicahua");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Chimalli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Cipactli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Coaxoch");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Coyotl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Cualli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Cuauhtémoc");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Cuetlachtilo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Cuetzpalli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Cuixtli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Ehecatl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Etalpalli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Huemac");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Huitzilihuitl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Iccauhtli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Ilhicamina");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Itztli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Ixtli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Mahuizoh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Manauia");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Matlal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Matlalihuitl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Mazatl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Mictlantecuhtli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Milintica");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Momoztli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Namacuix");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Necalli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Necuametl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Nezahualcoyotl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Nexahualpilli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Nochehuatl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Nopaltzin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Ollin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Quauhtli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tenoch");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Teoxihuitl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tepiltzin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tezcacoatl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tlacaelel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tlacelel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tlaloc");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tlanextic");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tlazohtlaloni");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Tlazopillo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Uetzcayotl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Xipilli");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Mesoamerican", "Yaotl");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Abebe");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Abel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Abidemi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Abrafo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Adisa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Amadi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Amara");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Anyim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Azubuike");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Bapoto");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Baraka");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Bohlale");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Bongani");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Bujune");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Buziba");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Chakide");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Chibuzo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Chika");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Chimola");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Chiratidzo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Dabulamanzi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Dumisa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Dwanh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Emeka");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Folami");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Gatura");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Gebhuza");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Gero");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Isoba");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Kagiso");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Kamau");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Katlego");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Masego");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Matata");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Nthanda");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Ogechi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Olwenyo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Osumare");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Paki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Qinisela");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Quanda");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Samanya");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Shanika");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Sibonakaliso");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Tapiwa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Thabo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Themba");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Uzoma");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Zuberi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Niger-Congo", "Zuri");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Agni");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Alaric");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Anvindr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Arvid");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Asger");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Asmund");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Bjarte");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Bjorg");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Bjorn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Brandr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Brandt");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Brynjar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Calder");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Colborn");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Cuyler");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Egil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Einar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Eric");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Erland");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Fiske");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Folkvar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Fritjof");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Frode");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Geir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Halvar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Hemming");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Hjalmar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Hjortr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Ingimarr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Ivar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Knud");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Leif");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Liufr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Manning");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Oddr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Olin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Ormr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Ove");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Rannulfr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Sigurd");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Skari");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Snorri");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Sten");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Stigandr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Stigr");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Sven");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Trygve");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Ulf");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Vali");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Norse", "Vidar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Afa");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ahohako");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Aisake");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Aleki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Anewa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Anitelu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Aputi");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ariki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Butat");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Enele");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Fef");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Fuifui");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ha'aheo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Hanohano");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Haunui");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Hekili");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Hiapo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Hikawera");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Hanano");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ho'onani");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Hoku");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Hûʼeu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ina");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Itu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ka'aukai");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ka'eo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Kaelani");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Kahale");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Kaiea");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Kaikoa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Kana'l");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Koamalu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ka");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Laki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Makai");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Manu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Manuka");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Nui");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Pono");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Popoki");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Ruru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Tahu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Taurau");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Tuala");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Turoa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Tusitala");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Uaine");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Waata");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Waipuna");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Polynesian", "Zamar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Aelius");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Aetius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Agrippa");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Albanus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Albus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Antonius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Appius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Aquilinus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Atilus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Augustus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Aurelius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Avitus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Balbus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Blandus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Blasius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Brutus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Caelius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Caius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Casian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Cassius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Cato");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Celsus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Claudius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Cloelius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Cnaeus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Crispus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Cyprianus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Diocletianus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Egnatius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Ennius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Fabricius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Faustus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Gaius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Germanus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Gnaeus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Horatius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "lovianus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "lulius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Lucilius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Manius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Marcus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Marius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Maximus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Octavius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Paulus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Quintilian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Regulus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Servius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Tacitus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Roman", "Varius");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Aleksandru");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Berislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Blazh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Bogumir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Boguslav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Borislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Bozhidar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Bratomil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Bratoslav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Bronislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Chedomir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Chestibor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Chestirad");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Chestislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Desilav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Dmitrei");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Dobromil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Dobroslav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Dragomir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Dragutin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Drazhan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Gostislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Kazimir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Kyrilu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Lyubomir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Mechislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Milivo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Milosh");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Mstislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Nikola");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Ninoslav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Premislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Radomir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Radovan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Ratimir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Rostislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Slavomir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Stanislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Svetoslav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Tomislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Vasili");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Velimir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Vladimir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Vladislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Vlastimir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Volodimeru");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Vratislav");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Yarognev");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Yaromir");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Slavic", "Zbignev");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Alexandre");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Alfonso");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Alonso");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Anthon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Arcos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Arnaut");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Arturo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Bartoleme");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Benito");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Bernat");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Blasco");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Carlos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Damian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Diego");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Domingo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Enrique");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Escobar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Ettor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Fernando");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Franciso");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Gabriel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Garcia");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Gaspar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Gil");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Gomes");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Goncalo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Gostantin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Jayme");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Joan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Jorge");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Jose");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Juan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Machin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Martin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Mateu");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Miguel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Nicolas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Pascual");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Pedro");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Porico");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Ramiro");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Ramon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Rodrigo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Sabastian");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Salvador");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Simon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Tomas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Tristan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Valeriano");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Spanish", "Ynigo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Abad");
+
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Ahrim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Akmen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Amnon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Andram");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Astar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Balam");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Barakas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Bathin");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Caim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Chem");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Cimer");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Cressel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Damakos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Ekemon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Euron");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Fenriz");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Forcas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Habor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "lados");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Kairon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Leucis");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Mamnen");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Mantus");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Marbas");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Melech");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Merihim");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Modean");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Mordai");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Mormo");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Morthos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Nicor");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Nirgel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Oriax");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Paymon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Pelaios");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Purson");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Qemuel");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Raam");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Rimmon");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Sammal");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Skamos");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Tethren");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Thamuz");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Therai");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Valafar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Vassago");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Xappan");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Zepar");
+INSERT INTO names (category, culture, name) VALUES ("Male", "Tiefling", "Zephan");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Aloro");
+
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Amakiir");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Amastacia");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Ariessus");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Arnuanna");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Berevan");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Caerdonel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Caphaxath");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Casilltenirra");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Cithreth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Dalanthan");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Eathalena");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Erenaeth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Ethanasath");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Fasharash");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Firahel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Floshem");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Galanodel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Goltorah");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Hanali");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Holimion");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Horineth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "lathrana");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Ilphelkiir");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Iranapha");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Koehlanna");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Lathalas");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Liadon");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Meliamne");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Mellerelel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Mystralath");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Naïlo");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Netyoive");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Ofandrus");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Ostoroth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Othronus");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Qualanthri");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Raethran");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Rothenel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Selevarun");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Siannodel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Suithrasas");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Sylvaranth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Teinithra");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Tiltathana");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Wasanthi");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Withrethin");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Xiloscient");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Xistsrith");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Elf", "Yaeldrin");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Appleblossom");
+
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Bigheart");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Brightmoon");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Brushgather");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Cherrycheeks");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Copperkettle");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Deephollow");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Elderberry");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Fastfoot");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Fatrabbit");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Glenfellow");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Goldfound");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Goodbarrel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Goodearth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Greenbottle");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Greenleaf");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "High");-hill
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Hilltopple");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Hogcollar");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Honeypot");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Jamjar");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Kettlewhistle");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Leagallow");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Littlefoot");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Nimblefingers");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Porridgepot");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Quickstep");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Reedfellow");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Shadowquick");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Silvereyes");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Smoothhands");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Stonebridge");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Stoutbridge");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Stoutman");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Strongbones");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Sunmeadow");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Swiftwhistle");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Tallfellow");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Tealeaf");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Tenpenny");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Thistletop");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Thorngage");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Tosscobble");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Underbough");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Underfoot");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Warmwater");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Whispermouse");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Wildcloak");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Wildheart");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Halfling", "Wiseacre");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Ambition");
+
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Art");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Carrion");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Chant");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Creed");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Death");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Debauchery");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Despair");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Doom");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Doubt");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Dread");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Ecstasy");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Ennui");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Entropy");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Excellence");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Fear");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Glory");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Gluttony");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Grief");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Hate");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Hope");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Horror");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Ideal");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Ignominy");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Laughter");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Love");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Lust");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Mayhem");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Mockery");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Murder");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Muse");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Music");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Mystery");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Nowhere");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Open");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Pain");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Passion");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Poetry");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Quest");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Random");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Reverence");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Revulsion");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Sorrow");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Temerity");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Torment");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Tragedy");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Vice");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Virtue");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Weary");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Tiefling", "Wit");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Akambherylliax");
+
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Argenthrixus");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Baharoosh");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Beryntolthropal");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Bhenkumbyrznaax");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Caavylteradyn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Chumbyxirinnish");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Clethtinthiallor");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Daardendrian");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Delmirev");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Dhyrktelonis");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Ebynichtomonis");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Esstyrlynn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Fharngnarthnost");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Ghaallixirn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Grrrmmballhyst");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Gygazzylyshrift");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Hashphronyxadyn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Hshhsstoroth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "lmbixtellrhyst");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Jerynomonis");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Jharthraxyn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Kerrhylon");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Kimbatuul");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Lhamboldennish");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Linxakasendalor");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Mohradyllion");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Mystan");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "NemmonisNorixius");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Ophinshtalajiir");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Orexijandilin");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Pfaphnyrennish");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Phrandrandon");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Pyraxtallinost");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Qyxpahrgh");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Raghthroknaar");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Shestendeliath");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Skaarzborroosh");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Sumnarghthrysh");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Tiammanthyllish");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Turnuroth");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Umbyrphrael");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Vangdondalor");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Verthisathurgiesh");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Wivvyrholdalphiax");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Wystongjiir");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Xephyrbahnor");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Yarjerit");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dragonkin", "Zzzxaaxthroth");
+
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Aranore");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Balderk");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Battlehammer");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Bigtoe");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Bloodkith");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Bofdann");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Brawnanvil");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Brazzik");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Broodfist");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Burrowfound");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Caebrek");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Daerdahk");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Dankil");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Daraln");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Deepdelver");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Durthane");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Eversharp");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Fallack");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Fireforge");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Foamtankard");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Frostbeard");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Glanhig");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Goblinbane");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Goldfinder");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Gorunn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Graybeard");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Hammerstone");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Helcral");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Holderhek");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Ironfist");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Loderr");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Lutgehr");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Morigak");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Orcfoe");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Rakankrak");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Ruby");-Eye
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Rumnaheim");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Silveraxe");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Silverstone");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Steelfist");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Stoutale");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Strakeln");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Strongheart");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Thrahak");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Torevir");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Torunn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Trollbleeder");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Trueanvil");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Trueblood");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Dwarf", "Ungart");
+
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Albaratie");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Bafflestone");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Beren");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Boondiggles");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Cobblelob");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Daergel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Dunben");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Fabblestabble");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Fapplestamp");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Fiddlefen");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Folkor");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Garrick");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Gimlen");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Glittergem");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Gobblefirn");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Gummen");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Horcusporcus");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Humplebumple");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Ironhide");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Leffery");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Lingenhall");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Loofollue");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Maekkelferce");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Miggledy");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Munggen");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Murnig");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Musgraben");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Nackle");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Ningel");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Nopenstallen");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Nucklestamp");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Offund");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Oomtrowl");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Pilwicken");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Pingun");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Quillsharpener");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Raulnor");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Reese");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Rofferton");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Scheppen");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Shadowcloak");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Silverthread");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Sympony");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Tarkelby");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Timbers");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Turen");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Umbodoben");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Waggletop");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Welber");
+INSERT INTO names (category, culture, name) VALUES ("Last", "Gnome", "Wildwander");
+
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Ael");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Ang");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Ara");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Ari");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Arn");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Aym");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Broe");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Bryn");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Cael");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Cy");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Dae");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Del");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Eli");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Eryn");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Faen");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Fera");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Gael");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Gar");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Innil");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Jar");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Kan");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Koeth");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Lael");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Lue");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Mai");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Mara");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Mella");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Mya");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Naeris");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Naill");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Nim");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Phann");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Py");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Rael");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Raer");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Ren");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Rinn");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Rua");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Sael");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Sai");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Sumi");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Syllin");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Ta");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Thia");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Tia");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Traki");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Vall");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Von");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "wil");
+INSERT INTO names (category, culture, name) VALUES ("Child", "Elf", "Za");
