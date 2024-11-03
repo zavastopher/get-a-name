@@ -10,7 +10,7 @@ services:
       POSTGRES_USER: "test-user"
       POSTGRES_PASSWORD: "supersecurepassword"
     ports:
-      - "3210":"3210"
+      - 3210:3210
     volumes:
       - pgdata:/var/lib/postgresql/data
 
