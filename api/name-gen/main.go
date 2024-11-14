@@ -51,7 +51,7 @@ func getAnyName(db *sql.DB) string {
 		log.Println("error in generating name")
 		log.Fatal(err)
 	}
-	return name
+	return "\033[37m" + category + " \033[36m" + name
 }
 
 func main() {
