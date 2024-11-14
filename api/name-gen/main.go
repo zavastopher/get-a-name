@@ -9,7 +9,7 @@ import (
 	"strconv"
 )
 
-func getAnyName(db *sql.DB) {
+func getAnyName(db *sql.DB) string {
 	category := "Female"
 	if rand.IntN(2) != 0 {
 		category = "Male"
@@ -51,16 +51,16 @@ func getAnyName(db *sql.DB) {
 		log.Println("error in generating name")
 		log.Fatal(err)
 	}
-	fmt.Printf("\nYour name is now %s", name)
+	return name
 }
 
 func main() {
-	fmt.Println("connecting to random-tables db")
+	fmt.Println("\n\033[32mconnecting to random-tables db")
 	connstr := "postgres://oracle:supersecurepassword@localhost:3210/randomtables?sslmode=disable"
 	db, err := sql.Open("postgres", connstr)
 	defer db.Close()
 	if err != nil {
-		log.Println("Connection to database failed")
+		log.Println("connection to database failed")
 		log.Fatal(err)
 	}
 	if err = db.Ping(); err != nil {
@@ -68,7 +68,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println("Connected Successfully")
+	fmt.Println("connected successfully")
 
-	getAnyName(db)
+	fmt.Printf("\n\033[36m%s\n", getAnyName(db))
 }
