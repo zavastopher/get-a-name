@@ -70,5 +70,5 @@ func main() {
 
 	fmt.Println("connected successfully")
 
-	fmt.Printf("\n\033[36m%s\n", getAnyName(db))
+	fmt.Printf("\n\033[36m%s\n\n", getAnyName(db))
 }
